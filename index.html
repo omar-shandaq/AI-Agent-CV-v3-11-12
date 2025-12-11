@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en" translate="no">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="google" content="notranslate" />
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+  />
+  <title>SkillMatch Pro</title>
+
+  <!-- Google Fonts -->
+  <link
+    href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap"
+    rel="stylesheet"
+  />
+
+  <!-- Font Awesome for icons -->
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"
+  />
+
+  <!-- Main CSS -->
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <!-- Application Header -->
+<header class="site-header">
+    <div class="site-header-inner container" style="justify-content: space-between;">
+      
+      <div class="brand">
+        <i class="fas fa-user-graduate"></i>
+        <div>
+          <h1>SkillMatch Pro</h1>
+          <p class="tagline">AI-powered training and certification recommendations</p>
+        </div>
+      </div>
+
+      <div>
+        <a href="ar/index.html" class="lang-btn">
+          العربية <i class="fas fa-globe"></i>
+        </a>
+      </div>
+
+    </div>
+  </header>
+
+  <!-- Main Content Container -->
+  <main class="container">
+    <div class="main-content">
+      <!-- Chat Interface Section -->
+      <section class="chat-section card" aria-label="Chat Assistant">
+        <div class="section-header">
+          <h2><i class="fas fa-comments"></i> Chat Assistant</h2>
+        </div>
+    
+        <div id="chat-messages" class="chat-messages" aria-live="polite">
+          <div class="message bot-message">
+            Hello! I'm your training and certification assistant. I can help you:
+            <ul>
+              <li>Discuss training programs and certificates</li>
+              <li>Analyze CVs for suitable recommendations</li>
+              <li>Adjust recommendations based on your business rules</li>
+            </ul>
+            How can I help you today?
+          </div>
+        </div>
+    
+        <div class="chat-input">
+          <input id="user-input" type="text" placeholder="Ask about training programs, upload CVs, or set rules..." autocomplete="off" />
+          <button id="send-button"><i class="fas fa-paper-plane"></i></button>
+        </div>
+      </section>
+
+      <!-- Side panel -->
+      <aside class="side-panel">
+        <!-- MERGED: Upload CVs & Business Rules Section -->
+        <section class="panel-section card merged-section">
+          <h3><i class="fas fa-file-upload"></i> Upload CVs</h3>
+          
+          <!-- Upload Area -->
+          <div id="cv-upload-area" class="file-upload-area" tabindex="0">
+            <i class="fas fa-cloud-upload-alt fa-2x"></i>
+            <p class="muted">Drag & drop CV files here or click to browse</p>
+            <input id="file-input" type="file" multiple accept=".pdf,.docx,.txt" />
+            <!-- Status overlay inside upload area -->
+            <div id="upload-status"></div>
+          </div>
+          
+          <!-- Divider -->
+          <div class="section-divider"></div>
+          
+          <!-- Business Rules Label with Optional -->
+           <!-- 11-12-2025 Liyan's updates -->
+          <h3 class="rules-label" style="justify-content: space-between; width: 100%;">
+            <div style="display: flex; align-items: center; gap: 10px;">
+              <i class="fas fa-gavel"></i> Business Rules
+              <span class="optional-tag">Optional</span>
+            </div>
+            <button id="maximize-rules-btn" class="icon-btn" type="button" title="Maximize View">
+              <i class="fas fa-expand"></i>
+            </button>
+          </h3>
+          <!-- end 11-12-2025 updates -->
+
+          <!-- Rules Container -->
+          <div id="rules-container" class="rules-container">
+            <!-- Rules inputs will be dynamically added here -->
+            <!-- Status overlay inside rules container -->
+            <div id="rules-status"></div>
+          </div>
+          
+          <!-- Add Rule button -->
+          <button id="add-rule-btn" type="button" class="add-rule-btn">
+            <i class="fas fa-plus"></i> Add Rule
+          </button>
+          
+          <!-- Single Generate Recommendations Button -->
+          <button id="generate-recommendations-btn" class="primary action-full" disabled>
+            <i class="fas fa-star"></i> Generate Recommendations
+          </button>
+        </section>
+
+        <!-- Uploaded CVs Section -->
+         <!-- 11-12-2025 liyan's updates -->
+         <section class="panel-section card uploaded-cvs-section">
+          <h3 style="justify-content: space-between; width: 100%; display: flex; align-items: center;">
+            <div style="display: flex; align-items: center; gap: 10px;">
+              <i class="fas fa-folder-open"></i> Uploaded CVs
+              <span id="uploaded-cv-count" class="optional-tag">0</span>
+            </div>
+            <button id="maximize-uploaded-btn" class="icon-btn" type="button" title="Maximize View">
+              <i class="fas fa-expand"></i>
+            </button>
+          </h3>
+          
+          <div id="submitted-cv-bubbles" class="submitted-cv-bubbles" aria-live="polite"></div>
+        </section>
+          <!-- end 11-12-2025 liyan's updates  -->
+          
+          <div id="submitted-cv-bubbles" class="submitted-cv-bubbles" aria-live="polite"></div>
+        </section>
+      </aside>
+    </div>
+
+    <!-- CV Upload Modal -->
+    <div id="cvModal" class="cv-modal" role="dialog" aria-modal="true" aria-labelledby="cvModalTitle" hidden>
+      <div class="cv-modal-content">
+        <button class="cv-close-btn" aria-label="Close CV modal">&times;</button>
+        <h2 id="cvModalTitle">CV Analysis Review</h2>
+        <div class="cv-search-container">
+          <i class="fas fa-search search-icon"></i>
+          <input type="text" id="cvSearchInput" placeholder="Search CV by name..." class="cv-search-input" autocomplete="off" />
+        </div>
+
+        <div id="cvTabsContainer" class="cv-tabs" role="tablist"></div>
+        <div id="cvTabsContainer" class="cv-tabs" role="tablist"></div>
+        <div id="cvResultsContainer" class="cv-results" role="region"></div>
+        <button id="submitCvReview" class="cv-submit-btn">Submit</button>
+      </div>
+    </div>
+
+    <!-- Section to Display Analysis Results -->
+    <section class="results-section hidden" id="results-section">
+      <h2>
+        <i class="fas fa-star"></i> Recommendations
+      </h2>
+      <div id="recommendations-container">
+        <!-- Results will be dynamically populated here by JavaScript -->
+      </div>
+    </section>
+
+    <!-- 11-12-2025 Liyan's updates -->
+    <<div id="rulesModal" class="cv-modal" role="dialog" aria-hidden="true" style="display: none;">
+      <div class="cv-modal-content rules-modal-content">
+        <div class="section-header">
+          <h2><i class="fas fa-gavel"></i> Business Rules <span class="optional-tag">Optional</span></h2>
+          <button class="cv-close-btn" id="closeRulesModal">&times;</button>
+        </div>
+        
+        <div id="rules-modal-body" class="rules-modal-body"></div>
+
+        <div id="rules-modal-add-container" style="margin-top: var(--space-m);">
+           </div>
+        
+        <div id="rules-modal-footer" style="margin-top: var(--space-m);">
+           </div>
+      </div>
+    </div>
+    <!-- end 11-12-2025 Liyan's updates -->
+  </main>
+
+  <!-- External Libraries for File Parsing -->
+  <!-- PDF.js for parsing PDF files -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
+  <!-- Mammoth.js for parsing DOCX files -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/mammoth/1.6.0/mammoth.browser.min.js"></script>
+  
+  <!-- Marked.js for markdown parsing -->
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+
+  <!-- Config (injects GEMINI_API_KEY into window.GEMINI_API_KEY) -->
+  <script src="config.js"></script>
+
+  <!-- Main Application JavaScript - Team's modular structure -->
+  <script type="module" src="constants.js"></script>
+  <script type="module" src="prompts.js"></script>
+  <script type="module" src="storage-catalog.js"></script>
+  <script type="module" src="ai.js"></script>
+  <script type="module" src="ui.js"></script>
+</body>
+</html>
+
+

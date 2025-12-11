@@ -1,0 +1,3710 @@
+[
+  {
+    "Certificate_Name_EN": "CCNA CISCO Certified Network Associate",
+    "Certificate_Name_AR": "شهادة خبير شبكات سيسكو المعتمد CCNA",
+    "Certificate_Entity": "CISCO",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Validates knowledge of fundamental networking concepts, installation, operation, and troubleshooting of medium-sized networks.",
+    "Level": "Associate"
+  },
+  {
+    "Certificate_Name_EN": " PMP Project Management Professional",
+    "Certificate_Name_AR": "شهادة محترف إدارة المشاريع PMP",
+    "Certificate_Entity": "PMI",
+    "Certificate_Field_EN": "Business and project administration",
+    "Certificate_Field_AR": "إدارة الأعمال والمشاريع",
+    "Description": "A globally recognized certification for project managers, validating experience, education, and competence to lead and direct projects.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Computer Skills Mastering ETQAN",
+    "Certificate_Name_AR": "شهادة إتقان",
+    "Certificate_Entity": "TVTC",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Certification for mastering essential computer skills and productivity software, often focusing on regional standards.",
+    "Level": "Foundation"
+  },
+  {
+    "Certificate_Name_EN": "Chartered Inst. of Personnel and Dvpt-  CIPD 3",
+    "Certificate_Name_AR": "شهادة معهد تشارترد للافراد والتنمية-CIPD3",
+    "Certificate_Entity": "CIPD",
+    "Certificate_Field_EN": "Human Resources And Development",
+    "Certificate_Field_AR": "الموارد البشرية والتطوير",
+    "Description": "Provides a grounding in essential HR and L&D skills, suitable for those new to the field.",
+    "Level": "Foundation"
+  },
+  {
+    "Certificate_Name_EN": "CIPD5 DIPLOMA IN HUMAN RESOURCES PRACTIC",
+    "Certificate_Name_AR": "شهادة معهد تشارترد للافراد والتنمية-CIPD5",
+    "Certificate_Entity": "CIPD",
+    "Certificate_Field_EN": "Human Resources And Development",
+    "Certificate_Field_AR": "الموارد البشرية والتطوير",
+    "Description": "Develops practical skills and knowledge for a career in HR, covering core areas like talent, performance, and reward management.",
+    "Level": "Intermediate"
+  },
+  {
+    "Certificate_Name_EN": "Cisco Certified Network Professional CCNP",
+    "Certificate_Name_AR": "محترف شبكات سيسكو المعتمد CCNP",
+    "Certificate_Entity": "CISCO",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Advanced certification that proves knowledge and skills in planning, implementing, verifying, and optimizing enterprise networks.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Cisco Certified Internetwork Expert CCIE",
+    "Certificate_Name_AR": "شهادة خبير شبكات سيسكو المعتمد CCIE",
+    "Certificate_Entity": "CISCO",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "The highest level of Cisco certification, recognized globally as the most prestigious networking certification.",
+    "Level": "Expert"
+  },
+  {
+    "Certificate_Name_EN": "The Saudi Organization for Certified Public Accoun",
+    "Certificate_Name_AR": "زمالة الهيئة السعودية للمحاسبين القانونيين SOCPA",
+    "Certificate_Entity": "SOCPA",
+    "Certificate_Field_EN": "Accounting",
+    "Certificate_Field_AR": "المحاسبة",
+    "Description": "Likely refers to a professional accounting qualification in Saudi Arabia, ensuring competence in local accounting standards and laws.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Microsoft Office Specialist",
+    "Certificate_Name_AR": "شهادة أخصائي مايكروسوفت أوفيس MOS",
+    "Certificate_Entity": "Microsoft",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Validates proficiency in specific Microsoft Office applications like Word, Excel, PowerPoint, etc.",
+    "Level": "Foundation"
+  },
+  {
+    "Certificate_Name_EN": "Chartered Financial Analyst CFA",
+    "Certificate_Name_AR": "محلل مالي معتمد CFA",
+    "Certificate_Entity": "CFA",
+    "Certificate_Field_EN": "Accounting",
+    "Certificate_Field_AR": "المحاسبة",
+    "Description": "A globally respected, graduate-level investment credential covering ethical and professional standards, financial analysis, and investment management.",
+    "Level": "Expert"
+  },
+  {
+    "Certificate_Name_EN": "certified fraud examiner CFE",
+    "Certificate_Name_AR": "خبير كشف الاحتيال CFE",
+    "Certificate_Entity": "ACFE",
+    "Certificate_Field_EN": "Finance And Auditing",
+    "Certificate_Field_AR": "المالية والمراجعة المالية",
+    "Description": "Certification for professionals who specialize in deterring, detecting, and investigating fraud.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Associate Professional in Human Resources - Intern",
+    "Certificate_Name_AR": "مساعد مشارك في الموارد البشرية الدولية - aPHRi",
+    "Certificate_Entity": "",
+    "Certificate_Field_EN": " HR Certification Institute HRCI\"",
+    "Certificate_Field_AR": "Human Resources And Development",
+    "Description": "الموارد البشرية والتطوير",
+    "Level": "Entry-level certification for HR professionals, demonstrating knowledge of HR concepts and practices globally."
+  },
+  {
+    "Certificate_Name_EN": "Professional in Human Resources - International PH",
+    "Certificate_Name_AR": "الشهادة المهنية في الموارد البشرية الدولية - PHRi",
+    "Certificate_Entity": "HR Certification Institute HRCI",
+    "Certificate_Field_EN": "Human Resources And Development",
+    "Certificate_Field_AR": "الموارد البشرية والتطوير",
+    "Description": "Mid-level certification for HR professionals, proving mastery of generally accepted HR principles in an international context.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "SHRM Certified Professional",
+    "Certificate_Name_AR": "شهادة محترف معتمد من جمعية إدارة الموارد البشرية-S",
+    "Certificate_Entity": "SHRM",
+    "Certificate_Field_EN": "Human Resources And Development",
+    "Certificate_Field_AR": "الموارد البشرية والتطوير",
+    "Description": "Certification for HR professionals focused on applying HR competencies to improve organizational performance.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "APTD Associate professional in talent development",
+    "Certificate_Name_AR": "المساعد المحترف في تنمية المواهب APTD",
+    "Certificate_Entity": "Association for Talent Development ATD",
+    "Certificate_Field_EN": "Human Resources And Development",
+    "Certificate_Field_AR": "الموارد البشرية والتطوير",
+    "Description": "Entry-level certification for talent development professionals, demonstrating foundational knowledge of the field.",
+    "Level": "Associate"
+  },
+  {
+    "Certificate_Name_EN": "Certified Professional in Talent Development CPTD",
+    "Certificate_Name_AR": "شهادة المحترف المعتمد في تنمية المواهب CPTD",
+    "Certificate_Entity": "Association for Talent Development ATD",
+    "Certificate_Field_EN": "Human Resources And Development",
+    "Certificate_Field_AR": "الموارد البشرية والتطوير",
+    "Description": "Advanced certification for talent development professionals, proving deep knowledge and application of expertise.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Microsoft Certified Professional",
+    "Certificate_Name_AR": "شهادة مايكروسوفت المهنية المعتمدة",
+    "Certificate_Entity": "Microsoft",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "General term for a professional certified by Microsoft in one of their technologies.",
+    "Level": "Varies"
+  },
+  {
+    "Certificate_Name_EN": "Certified Marketing Management Professional (CMMP)",
+    "Certificate_Name_AR": "شهادة إدارة التسويق الاحترافية- Associate CMMP",
+    "Certificate_Entity": "CMMP",
+    "Certificate_Field_EN": "Marketing",
+    "Certificate_Field_AR": "التسويق",
+    "Description": "Certification that validates a professional's expertise in core marketing management principles and practices.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "CompTIA Certified Technical Trainer (CTT+) Certificate",
+    "Certificate_Name_AR": "شهادة مدرب تقني معتمد من كومبتيا +CTT",
+    "Certificate_Entity": "CompTIA",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Validates the knowledge and skills necessary to be an effective technical instructor in any environment.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "ORACLE APEX",
+    "Certificate_Name_AR": "ORACLE APEX",
+    "Certificate_Entity": "ORACLE",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Focuses on using the Oracle Application Express (APEX) low-code development platform for building web apps.",
+    "Level": "Varies"
+  },
+  {
+    "Certificate_Name_EN": "CISSP Certified Information Systems Security Professional",
+    "Certificate_Name_AR": "شهادة أمن نظم المعلومات الاحترافية CISSP",
+    "Certificate_Entity": "ISC ² The leading professional organization in cyb",
+    "Certificate_Field_EN": "Cyber security and cloud computing",
+    "Certificate_Field_AR": "الامن السيبراني والحوسبة السحابية",
+    "Description": "Globally recognized certification for information security professionals who design, implement, and manage best-in-class cybersecurity programs.",
+    "Level": "Expert"
+  },
+  {
+    "Certificate_Name_EN": "CSCP Certified Supply Chain Professional",
+    "Certificate_Name_AR": "شهادة محترف سلسلة التوريد المعتمد CSCP",
+    "Certificate_Entity": "APICS",
+    "Certificate_Field_EN": "Logistics And Supply Chain",
+    "Certificate_Field_AR": "اللوجستيات وسلاسل الإمداد",
+    "Description": "Certification for professionals who manage and improve end-to-end supply chain operations, from suppliers to customers.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "ITIL Information Technology Infrastructure Library",
+    "Certificate_Name_AR": "مكتبة البنية التحتية للمعلوماتية ITIL",
+    "Certificate_Entity": "AXELOS",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Certification focusing on best practices for IT service management (ITSM).",
+    "Level": "Varies"
+  },
+  {
+    "Certificate_Name_EN": "CEH Certified Ethical Hacker Certification",
+    "Certificate_Name_AR": "شهادة المخترق الأخلاقي المعتمد CEH",
+    "Certificate_Entity": "EC-Council",
+    "Certificate_Field_EN": "Cyber security and cloud computing",
+    "Certificate_Field_AR": "الامن السيبراني والحوسبة السحابية",
+    "Description": "Certifies an individual's skills in penetration testing and ethical hacking techniques.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "CDMP Certified Digital Marketing Professional",
+    "Certificate_Name_AR": "شهادة محترف التسويق الرقمي المعتمد CDMP",
+    "Certificate_Entity": "Digital marketing institute",
+    "Certificate_Field_EN": "Marketing",
+    "Certificate_Field_AR": "التسويق",
+    "Description": "Validates expertise in key digital marketing domains, including strategy, SEO, social media, and analytics.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "CYSA+ CompTIA Cybersecurity Analyst",
+    "Certificate_Name_AR": "شهادة محلل الأمن السبراني CompTIA",
+    "Certificate_Entity": "CompTIA",
+    "Certificate_Field_EN": "Cyber security and cloud computing",
+    "Certificate_Field_AR": "الامن السيبراني والحوسبة السحابية",
+    "Description": "Certification for IT professionals focused on behavioral analytics to improve the overall state of IT security.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "CIPS Certificate in Procurement and Supply Operati",
+    "Certificate_Name_AR": "شهادة معهد تشاردر في المشتريات وعمليات الأمداد CIP",
+    "Certificate_Entity": "CIPS",
+    "Certificate_Field_EN": "Logistics And Supply Chain",
+    "Certificate_Field_AR": "اللوجستيات وسلاسل الإمداد",
+    "Description": "Entry-level qualification in procurement and supply operations, providing fundamental knowledge.",
+    "Level": "Foundation"
+  },
+  {
+    "Certificate_Name_EN": "Oracle Database Security OCE",
+    "Certificate_Name_AR": "شهادة أمن قاعدة بيانات اوراكل",
+    "Certificate_Entity": "ORACLE",
+    "Certificate_Field_EN": "Cyber security and cloud computing",
+    "Certificate_Field_AR": "الامن السيبراني والحوسبة السحابية",
+    "Description": "Focuses on securing Oracle databases, including user management, auditing, and data encryption.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Oracle Database Administration 2019 Certified Prof",
+    "Certificate_Name_AR": "شهادة إدارة قواعد بيانات أوراكل 2019",
+    "Certificate_Entity": "ORACLE",
+    "Certificate_Field_EN": "Cyber security and cloud computing",
+    "Certificate_Field_AR": "الامن السيبراني والحوسبة السحابية",
+    "Description": "Validates expertise in the administration and maintenance of Oracle Database environments.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Certified Guest Service Professional CGSP",
+    "Certificate_Name_AR": "شهادة اعتماد خدمة الضيوف المهنية CGSP",
+    "Certificate_Entity": "AHLEI",
+    "Certificate_Field_EN": "Tourism And Hospitality",
+    "Certificate_Field_AR": "السياحة والضيافة",
+    "Description": "Recognizes excellence in customer service skills within the hospitality industry.",
+    "Level": "Foundation"
+  },
+  {
+    "Certificate_Name_EN": "Certified Hospitality Educator CHE",
+    "Certificate_Name_AR": "معلم ضيافة معتمد CHE",
+    "Certificate_Entity": "AHLEI",
+    "Certificate_Field_EN": "Tourism And Hospitality",
+    "Certificate_Field_AR": "السياحة والضيافة",
+    "Description": "Certification for hospitality educators and trainers, validating teaching and curriculum development skills.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Certified Hospitality Supervisor CHS",
+    "Certificate_Name_AR": "شهادة اعتماد مشرف ضيافة CHS",
+    "Certificate_Entity": "AHLEI",
+    "Certificate_Field_EN": "Tourism And Hospitality",
+    "Certificate_Field_AR": "السياحة والضيافة",
+    "Description": "Certification for supervisory roles in the hospitality industry, covering leadership and operational management.",
+    "Level": "Associate"
+  },
+  {
+    "Certificate_Name_EN": "Certified Hospitality Trainer CHT",
+    "Certificate_Name_AR": "شهادة اعتماد مدرب الضيافة CHT",
+    "Certificate_Entity": "AHLEI",
+    "Certificate_Field_EN": "Tourism And Hospitality",
+    "Certificate_Field_AR": "السياحة والضيافة",
+    "Description": "Focuses on the skills needed to design, implement, and evaluate training programs in the hospitality sector.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Certified Restaurant Server CRS",
+    "Certificate_Name_AR": "شهادة اعتماد مقدم طعام CRS",
+    "Certificate_Entity": "AHLEI",
+    "Certificate_Field_EN": "Tourism And Hospitality",
+    "Certificate_Field_AR": "السياحة والضيافة",
+    "Description": "Certifies knowledge and skills in professional restaurant service, including food and beverage knowledge.",
+    "Level": "Foundation"
+  },
+  {
+    "Certificate_Name_EN": "Internet & Computing Core Certification IC3",
+    "Certificate_Name_AR": "الشهادة الدولية للحاسب والإنترنت IC3",
+    "Certificate_Entity": "Certiport",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Demonstrates essential computer and internet literacy skills.",
+    "Level": "Foundation"
+  },
+  {
+    "Certificate_Name_EN": "Certified Board Secretary",
+    "Certificate_Name_AR": "شهادة امين مجلس الإدارة المعتمد",
+    "Certificate_Entity": "GCC Board Directors Institute",
+    "Certificate_Field_EN": "Business and project administration",
+    "Certificate_Field_AR": "إدارة الأعمال والمشاريع",
+    "Description": "Validates expertise in corporate governance, compliance, and the effective administration of board meetings.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "CCP Certified Cost Professional",
+    "Certificate_Name_AR": "محترف التكاليف المعتمد CCP",
+    "Certificate_Entity": "AACE International",
+    "Certificate_Field_EN": "Finance And Auditing",
+    "Certificate_Field_AR": "المالية والمراجعة المالية",
+    "Description": "Certification focused on the principles and practices of Total Cost Management, including cost estimating and control.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Certified Estimating Professional CEP",
+    "Certificate_Name_AR": "محترف تقدير معتمد CEP",
+    "Certificate_Entity": "AACE International",
+    "Certificate_Field_EN": "Finance And Auditing",
+    "Certificate_Field_AR": "المالية والمراجعة المالية",
+    "Description": "Validates expertise in the preparation and interpretation of cost estimates and bids.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Planning & Scheduling Professional PSP",
+    "Certificate_Name_AR": "محترف التخطيط و الجدولة PSP",
+    "Certificate_Entity": "AACE International",
+    "Certificate_Field_EN": "Finance And Auditing",
+    "Certificate_Field_AR": "المالية والمراجعة المالية",
+    "Description": "Certification focused on project planning, scheduling, and progress measurement.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Certified Management Accountant CMA",
+    "Certificate_Name_AR": "شهادة المحاسب الإداري المعتمد CMA",
+    "Certificate_Entity": "IMA Institute of Management Accountants",
+    "Certificate_Field_EN": "Accounting",
+    "Certificate_Field_AR": "المحاسبة",
+    "Description": "A global professional certification for management accountants and financial professionals focused on financial planning, analysis, control, and decision support.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "CREST Certified Wireless Specialis CCWS",
+    "Certificate_Name_AR": "أخصائي اللاسلكي المعتمد SCREST CCW",
+    "Certificate_Entity": "CREST",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Certification focused on penetration testing and security assessment of wireless technologies.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "CREST Certified Incident Manager CCIM",
+    "Certificate_Name_AR": "مدير الحوادث المعتمد CREST CCIM",
+    "Certificate_Entity": "CREST",
+    "Certificate_Field_EN": "Cyber security and cloud computing",
+    "Certificate_Field_AR": "الامن السيبراني والحوسبة السحابية",
+    "Description": "Validates the ability to lead and manage an organization's response to cybersecurity incidents.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Huawei Certified ICT Associate 5G",
+    "Certificate_Name_AR": "شهادة مساعد هواوي (تقنية الجيل الخامس) 5G",
+    "Certificate_Entity": "Huawei",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Entry-level certification covering the basic knowledge and concepts of 5G technologies and networking.",
+    "Level": "Associate"
+  },
+  {
+    "Certificate_Name_EN": "CISA Certified Information Systems Auditor",
+    "Certificate_Name_AR": "مدقق نظم معلومات معتمد CISA",
+    "Certificate_Entity": "ISACA",
+    "Certificate_Field_EN": "Cyber security and cloud computing",
+    "Certificate_Field_AR": "الامن السيبراني والحوسبة السحابية",
+    "Description": "Certification for IT audit, control, and security professionals, focused on assessing IT and business systems.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Certified in Risk and Information Systems Control",
+    "Certificate_Name_AR": "معتمد في إدارة المخاطر ونظم المعلومات CRISC",
+    "Certificate_Entity": "ISACA",
+    "Certificate_Field_EN": "Cyber security and cloud computing",
+    "Certificate_Field_AR": "الامن السيبراني والحوسبة السحابية",
+    "Description": "Certification focused on managing IT risk and implementing and maintaining IT control systems.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Certified Information Security Manager CISM",
+    "Certificate_Name_AR": "مدير أمن المعلومات المعتمد CISM",
+    "Certificate_Entity": "ISACA",
+    "Certificate_Field_EN": "Cyber security and cloud computing",
+    "Certificate_Field_AR": "الامن السيبراني والحوسبة السحابية",
+    "Description": "Certification for professionals who manage, design, and oversee an organization's information security program.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Cybersecurity Practitioner Certification CSX-P",
+    "Certificate_Name_AR": "شهادة ممارس الأمن السيبراني CSX-P",
+    "Certificate_Entity": "ISACA",
+    "Certificate_Field_EN": "Cyber security and cloud computing",
+    "Certificate_Field_AR": "الامن السيبراني والحوسبة السحابية",
+    "Description": "Hands-on, performance-based certification demonstrating real-world cybersecurity skills.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Certified in the Governance of Enterprise IT CGEIT",
+    "Certificate_Name_AR": "معتمد في حوكمة تقنية المعلومات للمؤسسات CGEIT",
+    "Certificate_Entity": "ISACA",
+    "Certificate_Field_EN": "Cyber security and cloud computing",
+    "Certificate_Field_AR": "الامن السيبراني والحوسبة السحابية",
+    "Description": "Certification for professionals who govern, manage, and assure the effectiveness of an enterprise's IT.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Certified Business Process Associate CBPA",
+    "Certificate_Name_AR": "مشارك معتمد في عملية الأعمال CBPA",
+    "Certificate_Entity": "ABPMP International",
+    "Certificate_Field_EN": "Business and project administration",
+    "Certificate_Field_AR": "إدارة الأعمال والمشاريع",
+    "Description": "Entry-level certification for understanding business process management (BPM) fundamentals.",
+    "Level": "Associate"
+  },
+  {
+    "Certificate_Name_EN": "Certified Business Process Professional CBPP",
+    "Certificate_Name_AR": "خبير عمليات الأعمال المعتمد CBPP",
+    "Certificate_Entity": "ABPMP International",
+    "Certificate_Field_EN": "Business and project administration",
+    "Certificate_Field_AR": "إدارة الأعمال والمشاريع",
+    "Description": "Certification that validates expertise in applying BPM concepts and methods to improve business operations.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "PfMP Portfolio Management Professional",
+    "Certificate_Name_AR": "محترف إدارة المحافظ PfMP",
+    "Certificate_Entity": "PMI",
+    "Certificate_Field_EN": "Business and project administration",
+    "Certificate_Field_AR": "إدارة الأعمال والمشاريع",
+    "Description": "Certification for professionals responsible for the coordinated management of one or more portfolios to achieve strategic objectives.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Program Management Professional PgMP",
+    "Certificate_Name_AR": "محترف إدارة البرامج PgMP",
+    "Certificate_Entity": "PMI",
+    "Certificate_Field_EN": "Business and project administration",
+    "Certificate_Field_AR": "إدارة الأعمال والمشاريع",
+    "Description": "Certification for those who manage multiple related projects and often other programs, aligning with organizational strategy.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Certified Associate in Project Management CAPM",
+    "Certificate_Name_AR": "مساعد معتمد في إدارة المشاريع CAPM",
+    "Certificate_Entity": "PMI",
+    "Certificate_Field_EN": "Business and project administration",
+    "Certificate_Field_AR": "إدارة الأعمال والمشاريع",
+    "Description": "Entry-level certification for project practitioners who want to demonstrate their understanding of the fundamental knowledge, terminology, and processes of effective project management.",
+    "Level": "Associate"
+  },
+  {
+    "Certificate_Name_EN": "PMI-PBA) PMI Professional in Business Analysis )",
+    "Certificate_Name_AR": "محترف في تحليل الأعمال (PMI-PBA)",
+    "Certificate_Entity": "PMI",
+    "Certificate_Field_EN": "Business and project administration",
+    "Certificate_Field_AR": "إدارة الأعمال والمشاريع",
+    "Description": "Certification for business analysis professionals working on projects and programs, focused on requirements management and elicitation.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "CBP Computer technology specialist",
+    "Certificate_Name_AR": "أخصائي تكنولوجيا الحاسب الآلي CBP",
+    "Certificate_Entity": "IBTA",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Certification demonstrating basic to intermediate proficiency in computer technology, likely covering hardware and software.",
+    "Level": "Foundation"
+  },
+  {
+    "Certificate_Name_EN": "CBP Certified business professional in customer se",
+    "Certificate_Name_AR": "محترف اعمال معتمد في خدمة العملاء CBP",
+    "Certificate_Entity": "IBTA",
+    "Certificate_Field_EN": "Business and project administration",
+    "Certificate_Field_AR": "إدارة الأعمال والمشاريع",
+    "Description": "Focuses on best practices and skills for delivering high-quality customer service.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "CBP Certified business professional in leadership",
+    "Certificate_Name_AR": "محترف اعمال معتمد في القيادة الادارية CBP",
+    "Certificate_Entity": "IBTA",
+    "Certificate_Field_EN": "Human Resources And Development",
+    "Certificate_Field_AR": "الموارد البشرية والتطوير",
+    "Description": "Validates essential leadership skills, including communication, motivation, and team development.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "CBP Certified business professional in sales",
+    "Certificate_Name_AR": "محترف اعمال معتمد في المبيعات CBP",
+    "Certificate_Entity": "IBTA",
+    "Certificate_Field_EN": "Marketing",
+    "Certificate_Field_AR": "التسويق",
+    "Description": "Focuses on professional sales techniques, customer relationship management, and closing skills.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "CBP Certified business professional in project man",
+    "Certificate_Name_AR": "محترف اعمال معتمد في إدارة المشاريع CBP",
+    "Certificate_Entity": "IBTA",
+    "Certificate_Field_EN": "Logistics And Supply Chain",
+    "Certificate_Field_AR": "اللوجستيات وسلاسل الإمداد",
+    "Description": "Certification covering fundamental principles and practices of project management.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "CBP Certified business professional in marketing",
+    "Certificate_Name_AR": "محترف اعمال معتمد في التسويق CBP",
+    "Certificate_Entity": "IBTA",
+    "Certificate_Field_EN": "Marketing",
+    "Certificate_Field_AR": "التسويق",
+    "Description": "Focuses on professional marketing strategies, planning, and implementation.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "CBP Certified business professional in conflict ma",
+    "Certificate_Name_AR": "محترف أعمال معتمد في إدارة النزاعات CBP",
+    "Certificate_Entity": "IBTA",
+    "Certificate_Field_EN": "Human Resources And Development",
+    "Certificate_Field_AR": "الموارد البشرية والتطوير",
+    "Description": "Validates skills in mediating, resolving, and preventing workplace conflicts.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "CBP Certified business professional in dynamic dec",
+    "Certificate_Name_AR": "محترف الأعمال المعتمد في اتخاذ القرار الديناميكي C",
+    "Certificate_Entity": "IBTA",
+    "Certificate_Field_EN": "Business and project administration",
+    "Certificate_Field_AR": "إدارة الأعمال والمشاريع",
+    "Description": "Focuses on advanced decision-making processes and critical thinking in a business context.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "CBP Certified business professional in leading thr",
+    "Certificate_Name_AR": "محترف اعمال معتمد في القيادة خلال التغيير CBP",
+    "Certificate_Entity": "IBTA",
+    "Certificate_Field_EN": "Human Resources And Development",
+    "Certificate_Field_AR": "الموارد البشرية والتطوير",
+    "Description": "Focuses on change management and guiding teams through organizational transitions.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "CBP Certified business professional in motivating",
+    "Certificate_Name_AR": "محترف الأعمال المعتمد في تحفيز الموظفينCBP",
+    "Certificate_Entity": "IBTA",
+    "Certificate_Field_EN": "Human Resources And Development",
+    "Certificate_Field_AR": "الموارد البشرية والتطوير",
+    "Description": "Validates skills in employee motivation, engagement, and performance enhancement.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "CYBP Certified young Business professional",
+    "Certificate_Name_AR": "محترف اعمال معتمد للشباب (ريادة الاعمال) CYBP",
+    "Certificate_Entity": "IBTA",
+    "Certificate_Field_EN": "Business and project administration",
+    "Certificate_Field_AR": "إدارة الأعمال والمشاريع",
+    "Description": "Entry-level or student certification aimed at developing fundamental business skills for young professionals.",
+    "Level": "Associate"
+  },
+  {
+    "Certificate_Name_EN": "CISI Diploma in Investment Operations",
+    "Certificate_Name_AR": "دبلوم في عمليات الاستثمار CISI",
+    "Certificate_Entity": "CISI",
+    "Certificate_Field_EN": "Finance And Auditing",
+    "Certificate_Field_AR": "المالية والمراجعة المالية",
+    "Description": "Advanced qualification for those working in investment operations, covering risk, regulation, and processes.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "CISI Certificate in Corporate Finance",
+    "Certificate_Name_AR": "شهادة في تمويل الشركات CISI",
+    "Certificate_Entity": "CISI",
+    "Certificate_Field_EN": "Finance And Auditing",
+    "Certificate_Field_AR": "المالية والمراجعة المالية",
+    "Description": "Certification focused on the core areas of corporate finance, including valuations, M&A, and financing.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Certified Data Scientist SAS",
+    "Certificate_Name_AR": "شهادة عالم بيانات معتمد SAS",
+    "Certificate_Entity": "SAS Institute",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Validates expertise in using SAS tools for data analysis, statistical modeling, and data science projects.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Certified Host Intrusion Analyst (CCHIA)",
+    "Certificate_Name_AR": "محلل اختراق المضيف المعتمد CCHIA",
+    "Certificate_Entity": "CREST",
+    "Certificate_Field_EN": "Cyber security and cloud computing",
+    "Certificate_Field_AR": "الامن السيبراني والحوسبة السحابية",
+    "Description": "Focuses on the skills needed to analyze and respond to intrusions and security incidents on a host system.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Registered Intrusion Analyst ( CRIA )",
+    "Certificate_Name_AR": "محلل اختراق مسجل CRIA",
+    "Certificate_Entity": "CREST",
+    "Certificate_Field_EN": "Cyber security and cloud computing",
+    "Certificate_Field_AR": "الامن السيبراني والحوسبة السحابية",
+    "Description": "Certification for professionals who analyze and investigate network or system intrusions.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Certified Network Intrusion Analyst (CCNIA)",
+    "Certificate_Name_AR": "محلل اختراق الشبكة المعتمد CCHIA",
+    "Certificate_Entity": "CREST",
+    "Certificate_Field_EN": "Cyber security and cloud computing",
+    "Certificate_Field_AR": "الامن السيبراني والحوسبة السحابية",
+    "Description": "Focuses on the skills needed to monitor, detect, and analyze network intrusions and traffic anomalies.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Huawei Certified ICT Associate (Internet of Things",
+    "Certificate_Name_AR": "شهادة مساعد هواوي المعتمد في تكنولوجيا المعلومات و",
+    "Certificate_Entity": "Huawei",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Entry-level certification covering the basic concepts, architecture, and applications of IoT technology.",
+    "Level": "Associate"
+  },
+  {
+    "Certificate_Name_EN": "PMI-ACP Agile Certified Practitioner",
+    "Certificate_Name_AR": "ممارس محترف مرن معتمد PMI-ACP",
+    "Certificate_Entity": "PMI",
+    "Certificate_Field_EN": "Business and project administration",
+    "Certificate_Field_AR": "إدارة الأعمال والمشاريع",
+    "Description": "Certification for practitioners of Agile methodologies, including Scrum, Kanban, Lean, and others.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Value-Added Tax Specialist (SOCPA)",
+    "Certificate_Name_AR": "شهادة أخصائي ضريبة القيمة المضافة (SOCPA)",
+    "Certificate_Entity": "SOCPA",
+    "Certificate_Field_EN": "Accounting",
+    "Certificate_Field_AR": "المحاسبة",
+    "Description": "Specialized certification focusing on the principles, regulations, and implementation of Value-Added Tax (VAT) in Saudi Arabia.",
+    "Level": "Specialist"
+  },
+  {
+    "Certificate_Name_EN": "Certified Accounting Technician (SOCPA)",
+    "Certificate_Name_AR": "شهادة فني المحاسبة (SOCPA)",
+    "Certificate_Entity": "SOCPA",
+    "Certificate_Field_EN": "Accounting",
+    "Certificate_Field_AR": "المحاسبة",
+    "Description": "Certification for individuals supporting accounting functions, demonstrating competence in basic bookkeeping and accounting principles.",
+    "Level": "Associate"
+  },
+  {
+    "Certificate_Name_EN": "Fundamentals of Engineering FE",
+    "Certificate_Name_AR": "شهادة أساسيات الهندسة FE",
+    "Certificate_Entity": "SCE",
+    "Certificate_Field_EN": "Engineering",
+    "Certificate_Field_AR": "الهندسة",
+    "Description": "The first step in the process of becoming a professional engineer (PE), covering fundamental engineering principles.",
+    "Level": "Associate"
+  },
+  {
+    "Certificate_Name_EN": "SHRM Advanced Certificate (SHRM ACHRM)",
+    "Certificate_Name_AR": "الشهادة المتقدمة في إدارة الموارد البشرية SHRM ACH",
+    "Certificate_Entity": "SHRM",
+    "Certificate_Field_EN": "Human Resources And Development",
+    "Certificate_Field_AR": "الموارد البشرية والتطوير",
+    "Description": "An advanced certificate indicating a higher level of knowledge and skill in a specialized HR area or competency.",
+    "Level": "Advanced"
+  },
+  {
+    "Certificate_Name_EN": "Adobe Certified Professional in Visual Design",
+    "Certificate_Name_AR": "محترف ادوبي في التصميم المرئي",
+    "Certificate_Entity": "Certiport",
+    "Certificate_Field_EN": "Arts",
+    "Certificate_Field_AR": "الفنون",
+    "Description": "Validates proficiency in using Adobe creative tools (like Photoshop and Illustrator) for visual design projects.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Adobe Certified Professional in Video Design",
+    "Certificate_Name_AR": "محترف معتمد من أدوبي في مونتاج الفيديو",
+    "Certificate_Entity": "Certiport",
+    "Certificate_Field_EN": "Arts",
+    "Certificate_Field_AR": "الفنون",
+    "Description": "Validates proficiency in using Adobe video editing tools (like Premiere Pro and After Effects) for video production.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Certified Kitchen Cook (CKC)",
+    "Certificate_Name_AR": "شهادة اعتماد طاهي (CKC)",
+    "Certificate_Entity": "AHLEI",
+    "Certificate_Field_EN": "Tourism And Hospitality",
+    "Certificate_Field_AR": "السياحة والضيافة",
+    "Description": "Certifies an individual's skills in basic food preparation, cooking techniques, and kitchen safety.",
+    "Level": "Foundation"
+  },
+  {
+    "Certificate_Name_EN": "Certified Guest Room Attendant (CGA)",
+    "Certificate_Name_AR": "شهادة اعتماد مسؤول غرف الضيوف (CGA)",
+    "Certificate_Entity": "AHLEI",
+    "Certificate_Field_EN": "Tourism And Hospitality",
+    "Certificate_Field_AR": "السياحة والضيافة",
+    "Description": "Certifies an individual's skills in professional housekeeping and guest room maintenance standards.",
+    "Level": "Foundation"
+  },
+  {
+    "Certificate_Name_EN": "Certified Lodging Security Director ( CLSD)",
+    "Certificate_Name_AR": "شهادة اعتماد رئيس أمن الإيواء (CLSD)",
+    "Certificate_Entity": "AHLEI",
+    "Certificate_Field_EN": "Tourism And Hospitality",
+    "Certificate_Field_AR": "السياحة والضيافة",
+    "Description": "Certification for security directors in the lodging industry, focusing on security management and risk mitigation.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Certified Hospitality Administrator (CHA)",
+    "Certificate_Name_AR": "شهادة اعتماد مدير قطاع الضيافة (CHA)",
+    "Certificate_Entity": "AHLEI",
+    "Certificate_Field_EN": "Tourism And Hospitality",
+    "Certificate_Field_AR": "السياحة والضيافة",
+    "Description": "The most prestigious certification for general managers and hospitality executives, covering overall operations and leadership.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Certified Rooms Division Executive (CRDE)",
+    "Certificate_Name_AR": "شهادة اعتماد المدير التنفيذي لقطاع الغرف (CRDE)",
+    "Certificate_Entity": "AHLEI",
+    "Certificate_Field_EN": "Tourism And Hospitality",
+    "Certificate_Field_AR": "السياحة والضيافة",
+    "Description": "Certification for executives overseeing the Rooms Division (Front Office and Housekeeping) in a lodging facility.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Certified Hospitality Housekeeping Executive (CHHE",
+    "Certificate_Name_AR": "شهادة اعتماد المدير التنفيذي لشؤون الغرف (CHHE)",
+    "Certificate_Entity": "AHLEI",
+    "Certificate_Field_EN": "Tourism And Hospitality",
+    "Certificate_Field_AR": "السياحة والضيافة",
+    "Description": "Certification for executive housekeepers and managers of the housekeeping department.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Certified Food and Beverages Executive (CFBE)",
+    "Certificate_Name_AR": "شهادة اعتماد المدير التنفيذي لقطاع الأغذية والمشرو",
+    "Certificate_Entity": "AHLEI",
+    "Certificate_Field_EN": "Tourism And Hospitality",
+    "Certificate_Field_AR": "السياحة والضيافة",
+    "Description": "Certification for executives and managers overseeing food and beverage operations.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Certified Hospitality Facilities Executive (CHFE)",
+    "Certificate_Name_AR": "شهادة اعتماد المدير التنفيذي لمرافق الضيافة (CHFE)",
+    "Certificate_Entity": "AHLEI",
+    "Certificate_Field_EN": "Tourism And Hospitality",
+    "Certificate_Field_AR": "السياحة والضيافة",
+    "Description": "Certification for executives and managers overseeing facilities maintenance and engineering in a lodging facility.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Certified Hospitality Revenue Manager (CHRM)",
+    "Certificate_Name_AR": "شهادة اعتماد مدير إيرادات الضيافة (CHRM)",
+    "Certificate_Entity": "AHLEI",
+    "Certificate_Field_EN": "Tourism And Hospitality",
+    "Certificate_Field_AR": "السياحة والضيافة",
+    "Description": "Certification focused on optimizing revenue through pricing strategies, demand forecasting, and inventory management.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Certified Hospitality Sales Professional (CHSP)",
+    "Certificate_Name_AR": "شهادة اعتماد محترف مبيعات الضيافة (CHSP)",
+    "Certificate_Entity": "AHLEI",
+    "Certificate_Field_EN": "Tourism And Hospitality",
+    "Certificate_Field_AR": "السياحة والضيافة",
+    "Description": "Certification focused on professional sales and marketing techniques in the hospitality industry.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Certified Lodging Security Supervisor (CLSS)",
+    "Certificate_Name_AR": "شهادة اعتماد مشرف أمن الإيواء (CLSS)",
+    "Certificate_Entity": "AHLEI",
+    "Certificate_Field_EN": "Tourism And Hospitality",
+    "Certificate_Field_AR": "السياحة والضيافة",
+    "Description": "Certification for supervisory roles in lodging security, covering operations and team leadership.",
+    "Level": "Associate"
+  },
+  {
+    "Certificate_Name_EN": "Certified Hospitality Department Trainer (CHDT)",
+    "Certificate_Name_AR": "شهادة اعتماد مدرب قسم الضيافة (CHDT)",
+    "Certificate_Entity": "AHLEI",
+    "Certificate_Field_EN": "Tourism And Hospitality",
+    "Certificate_Field_AR": "السياحة والضيافة",
+    "Description": "Focuses on the skills needed to train staff within a specific hospitality department.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Certified Spa Supervisor (CSS)",
+    "Certificate_Name_AR": "شهادة اعتماد مشرف المنتجعات الصحية (CSS)",
+    "Certificate_Entity": "AHLEI",
+    "Certificate_Field_EN": "Tourism And Hospitality",
+    "Certificate_Field_AR": "السياحة والضيافة",
+    "Description": "Certification for supervisors in spa and wellness operations, covering management and service standards.",
+    "Level": "Associate"
+  },
+  {
+    "Certificate_Name_EN": "Certified Master Hotel Supplier (CMHS)",
+    "Certificate_Name_AR": "شهادة اعتماد خبير توريد الفندق (CMHS)",
+    "Certificate_Entity": "AHLEI",
+    "Certificate_Field_EN": "Tourism And Hospitality",
+    "Certificate_Field_AR": "السياحة والضيافة",
+    "Description": "Certification for suppliers to the hospitality industry, demonstrating knowledge of hotel operations and needs.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Certified in Hotel Industry Analytics (CHIA)",
+    "Certificate_Name_AR": "شهادة اعتماد محلل صناعة الفنادق (CHIA)",
+    "Certificate_Entity": "AHLEI",
+    "Certificate_Field_EN": "Tourism And Hospitality",
+    "Certificate_Field_AR": "السياحة والضيافة",
+    "Description": "Focuses on analyzing hotel performance data and applying industry metrics for strategic decision-making.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Certified Lodging Owner ( CLO )",
+    "Certificate_Name_AR": "شهادة اعتماد مالك إيواء السياحي (CLO)",
+    "Certificate_Entity": "AHLEI",
+    "Certificate_Field_EN": "Tourism And Hospitality",
+    "Certificate_Field_AR": "السياحة والضيافة",
+    "Description": "Certification for hotel owners, focusing on asset management, investment, and ownership responsibilities.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Certified Lodging Security Officer (CLSO)",
+    "Certificate_Name_AR": "شهادة اعتماد ضابط أمن الإيواء (CLSO)",
+    "Certificate_Entity": "AHLEI",
+    "Certificate_Field_EN": "Tourism And Hospitality",
+    "Certificate_Field_AR": "السياحة والضيافة",
+    "Description": "Certifies the skills and knowledge required for front-line security roles in a lodging environment.",
+    "Level": "Foundation"
+  },
+  {
+    "Certificate_Name_EN": "Fellowship certificate in Real Estate Valuation Se",
+    "Certificate_Name_AR": "شهادة الزمالة في تقييم العقار",
+    "Certificate_Entity": "Taqeem",
+    "Certificate_Field_EN": "Evaluation And Quality Control",
+    "Certificate_Field_AR": "التقييم وإدارة الجودة",
+    "Description": "Advanced certification in the valuation of real estate, requiring deep expertise and experience.",
+    "Level": "Expert"
+  },
+  {
+    "Certificate_Name_EN": "Fellowship Certificate in Business Valuation Secto",
+    "Certificate_Name_AR": "شهادة الزمالة في تقييم المنشآت الاقتصادية",
+    "Certificate_Entity": "Taqeem",
+    "Certificate_Field_EN": "Power And Verification Assessment",
+    "Certificate_Field_AR": "الطاقة والقياس و التحقق",
+    "Description": "Advanced certification in the valuation of businesses, covering financial analysis and valuation methodologies.",
+    "Level": "Expert"
+  },
+  {
+    "Certificate_Name_EN": "Fellowship Certificate in Automobile Damages Valua",
+    "Certificate_Name_AR": "شهادة زمالة الهيئة في فرع تقييم أضرار المركبات",
+    "Certificate_Entity": "Taqeem",
+    "Certificate_Field_EN": "Power And Verification Assessment",
+    "Certificate_Field_AR": "الطاقة والقياس و التحقق",
+    "Description": "Advanced certification in assessing and valuing damages to automobiles for insurance and claims purposes.",
+    "Level": "Expert"
+  },
+  {
+    "Certificate_Name_EN": "Fellowship Certificate in Machinery and equipment",
+    "Certificate_Name_AR": "شهادة زمالة الهيئة في فرع تقييم الآلات والمعدات",
+    "Certificate_Entity": "Taqeem",
+    "Certificate_Field_EN": "Power And Verification Assessment",
+    "Certificate_Field_AR": "الطاقة والقياس و التحقق",
+    "Description": "Advanced certification in the valuation of machinery and equipment assets.",
+    "Level": "Expert"
+  },
+  {
+    "Certificate_Name_EN": "Certified Internal Auditor",
+    "Certificate_Name_AR": "شهادة المدقق الداخلي المعتمد CIA",
+    "Certificate_Entity": "The Institute of Internal Auditors IIA",
+    "Certificate_Field_EN": "Finance And Auditing",
+    "Certificate_Field_AR": "المالية والمراجعة المالية",
+    "Description": "Globally recognized certification for internal audit professionals, focused on risk, governance, and control.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "CILT International Introductory Certificate in Log",
+    "Certificate_Name_AR": "شهادة تمهيدية دولية في اللوجستيات والنقل CILT",
+    "Certificate_Entity": "CILT",
+    "Certificate_Field_EN": "Logistics And Supply Chain",
+    "Certificate_Field_AR": "اللوجستيات وسلاسل الإمداد",
+    "Description": "Entry-level qualification providing a basic overview of logistics and transport concepts.",
+    "Level": "Foundation"
+  },
+  {
+    "Certificate_Name_EN": "CILT International Certificate in Logistics and Tr",
+    "Certificate_Name_AR": "الشهادة الدولية في اللوجستيات والنقل CILT",
+    "Certificate_Entity": "CILT",
+    "Certificate_Field_EN": "Logistics And Supply Chain",
+    "Certificate_Field_AR": "اللوجستيات وسلاسل الإمداد",
+    "Description": "Qualification providing a broader understanding of logistics, transport, and supply chain operations.",
+    "Level": "Associate"
+  },
+  {
+    "Certificate_Name_EN": "Certified Energy Manager CEM",
+    "Certificate_Name_AR": "مدير طاقة معتمد CEM",
+    "Certificate_Entity": "AEE",
+    "Certificate_Field_EN": "Power And Verification Assessment",
+    "Certificate_Field_AR": "الطاقة والقياس و التحقق",
+    "Description": "Certification focused on optimizing the energy performance of buildings and facilities, and implementing energy management programs.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Certified Energy Auditor CEA",
+    "Certificate_Name_AR": "مدقق طاقة معتمد CEA",
+    "Certificate_Entity": "AEE",
+    "Certificate_Field_EN": "Power And Verification Assessment",
+    "Certificate_Field_AR": "الطاقة والقياس و التحقق",
+    "Description": "Certification focused on performing comprehensive energy audits and recommending energy-saving measures.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Certified Measurement and Verification Professiona",
+    "Certificate_Name_AR": "أخصائي قياس وتحقق CMVP",
+    "Certificate_Entity": "AEE",
+    "Certificate_Field_EN": "Power And Verification Assessment",
+    "Certificate_Field_AR": "الطاقة والقياس و التحقق",
+    "Description": "Certification focused on ensuring energy savings are accurately measured and verified after implementing energy efficiency projects.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "International Financial  Reporting Standards  IFRS",
+    "Certificate_Name_AR": "المعايير الدولية للتقرير المالي IFRS",
+    "Certificate_Entity": "SOCPA",
+    "Certificate_Field_EN": "Finance And Auditing",
+    "Certificate_Field_AR": "المالية والمراجعة المالية",
+    "Description": "Certification covering the principles and application of International Financial Reporting Standards.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Governmental Accounting SOCPA",
+    "Certificate_Name_AR": "مسار المحاسبة الحكومية SOCPA",
+    "Certificate_Entity": "SOCPA",
+    "Certificate_Field_EN": "Accounting",
+    "Certificate_Field_AR": "المحاسبة",
+    "Description": "Specialized certification in accounting standards and practices for governmental and public sector entities in Saudi Arabia.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Governmental Auditing",
+    "Certificate_Name_AR": "مسار المراجعة الحكومية",
+    "Certificate_Entity": "SOCPA",
+    "Certificate_Field_EN": "Finance And Auditing",
+    "Certificate_Field_AR": "المالية والمراجعة المالية",
+    "Description": "Focuses on the principles and practices of auditing governmental and public sector organizations.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Online Teaching\\ Training (OTT)",
+    "Certificate_Name_AR": "تقديم التعليم والتدريب الإلكتروني OTT",
+    "Certificate_Entity": "المركز الوطني للتعليم الإلكتروني",
+    "Certificate_Field_EN": "Human Resources And Development",
+    "Certificate_Field_AR": "الموارد البشرية والتطوير",
+    "Description": "Certification focused on the skills and tools required for effective online instruction and training.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "eLearning Experience Design (eLXD)",
+    "Certificate_Name_AR": "تصميم خبرات التعليم والتدريب الإلكتروني eLXD",
+    "Certificate_Entity": "المركز الوطني للتعليم الإلكتروني",
+    "Certificate_Field_EN": "Human Resources And Development",
+    "Certificate_Field_AR": "الموارد البشرية والتطوير",
+    "Description": "Focuses on designing engaging and effective online learning experiences (UX/UI for eLearning).",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "eLearning Quality Assurance (eLQA)",
+    "Certificate_Name_AR": "ضبط جودة التعليم الإلكتروني eLQA",
+    "Certificate_Entity": "المركز الوطني للتعليم الإلكتروني",
+    "Certificate_Field_EN": "Human Resources And Development",
+    "Certificate_Field_AR": "الموارد البشرية والتطوير",
+    "Description": "Focuses on ensuring the quality, accessibility, and effectiveness of online learning content and platforms.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "eLCD eLearning Content Development",
+    "Certificate_Name_AR": "تطوير محتوى التعليم الإلكتروني eLCD",
+    "Certificate_Entity": "المركز الوطني للتعليم الإلكتروني",
+    "Certificate_Field_EN": "Human Resources And Development",
+    "Certificate_Field_AR": "الموارد البشرية والتطوير",
+    "Description": "Focuses on the process, tools, and techniques for creating high-quality eLearning courses and materials.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "eLearning Leadership Professional Certificate eLL",
+    "Certificate_Name_AR": "قيادة التعليم الإلكتروني eLL",
+    "Certificate_Entity": "المركز الوطني للتعليم الإلكتروني",
+    "Certificate_Field_EN": "Human Resources And Development",
+    "Certificate_Field_AR": "الموارد البشرية والتطوير",
+    "Description": "Focuses on leading and managing eLearning initiatives, teams, and technology within an organization.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "eLearning Technical Support eLTS",
+    "Certificate_Name_AR": "الدعم التقني للتعليم الإلكتروني eLTS",
+    "Certificate_Entity": "المركز الوطني للتعليم الإلكتروني",
+    "Certificate_Field_EN": "Human Resources And Development",
+    "Certificate_Field_AR": "الموارد البشرية والتطوير",
+    "Description": "Focuses on the technical skills required to support and maintain eLearning platforms and resolve user issues.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Saudi Accreditation Standards for Legal Practition",
+    "Certificate_Name_AR": "الاعتماد المهني السعودي للقانونيين",
+    "Certificate_Entity": "الهيئة السعودية للمحامين",
+    "Certificate_Field_EN": "Business and project administration",
+    "Certificate_Field_AR": "إدارة الأعمال والمشاريع",
+    "Description": "Certification ensuring legal professionals meet the required standards for practice and accreditation in Saudi Arabia.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Certified Analytics Professional CAP",
+    "Certificate_Name_AR": "محترف تحليلات معتمد CAP",
+    "Certificate_Entity": "Institute for Operations Research and the Manageme",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Certification for analytics practitioners, validating expertise in the end-to-end analytics process.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Associate Big Data Engineer ABDE",
+    "Certificate_Name_AR": "مهندس بيانات ضخمة مساعد ABDE",
+    "Certificate_Entity": "Data Science Council of America (DASCA)",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Entry-level certification covering the fundamentals of big data technologies and data engineering concepts.",
+    "Level": "Associate"
+  },
+  {
+    "Certificate_Name_EN": "Senior Big Data Engineer SBDE",
+    "Certificate_Name_AR": "مهندس بيانات ضخمة متقدم   SBDE",
+    "Certificate_Entity": "Data Science Council of America (DASCA)",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Advanced certification for experienced professionals in designing, building, and managing big data infrastructure.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Associate Big Data Analyst ABDA",
+    "Certificate_Name_AR": "محلل بيانات ضخمة مساعد    ABDA",
+    "Certificate_Entity": "Data Science Council of America (DASCA)",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Entry-level certification covering the fundamentals of analyzing and interpreting big data.",
+    "Level": "Associate"
+  },
+  {
+    "Certificate_Name_EN": "Senior Big Data Analyst SBDA",
+    "Certificate_Name_AR": "محلل بيانات ضخمة متقدم SBDA",
+    "Certificate_Entity": "Data Science Council of America (DASCA)",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Advanced certification for experienced professionals in performing complex analysis and generating insights from big data.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Certified Change Management Professional (CCMP)",
+    "Certificate_Name_AR": "محترف إدارة التغيير المعتمد CCMP",
+    "Certificate_Entity": "Association of Change Management Pro ACMP",
+    "Certificate_Field_EN": "Human Resources And Development",
+    "Certificate_Field_AR": "الموارد البشرية والتطوير",
+    "Description": "Certification focused on the principles and practices of effective change management in organizations.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Associate cloud engineer certificate -Google Cloud",
+    "Certificate_Name_AR": "شهادة مساعد في مهندس حوسبة سحابية Google Cloud",
+    "Certificate_Entity": "Google Cloud",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Entry-level certification demonstrating foundational knowledge of Google Cloud services, tools, and infrastructure.",
+    "Level": "Associate"
+  },
+  {
+    "Certificate_Name_EN": " Professional data engineer certificate",
+    "Certificate_Name_AR": "شهادة مهندس بيانات محترف Google Cloud",
+    "Certificate_Entity": "Google Cloud",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Advanced certification focused on designing, building, and managing data processing systems on Google Cloud.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "SIX SIGMA BLACK BELT CERTIFICATION CSSBB",
+    "Certificate_Name_AR": "معتمد ستة سيجما الحزام الأسود   CSSBB",
+    "Certificate_Entity": "الجمعية الأمريكية لمراقبة الجودة  ASQ",
+    "Certificate_Field_EN": "Evaluation And Quality Control",
+    "Certificate_Field_AR": "التقييم وإدارة الجودة",
+    "Description": "Advanced certification for leading complex Six Sigma projects, driving quality improvement and process optimization.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Certified Manager of Quality Organizational Excell",
+    "Certificate_Name_AR": "شهادة المدير المعتمد في الجودة والتميز المؤسسي CMQ",
+    "Certificate_Entity": "الجمعية الأمريكية لمراقبة الجودة  ASQ",
+    "Certificate_Field_EN": "Evaluation And Quality Control",
+    "Certificate_Field_AR": "التقييم وإدارة الجودة",
+    "Description": "Certification focused on quality management principles, organizational excellence, and process improvement.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Introduction to Securities and Investment (CME 1)",
+    "Certificate_Name_AR": "مقدمة في الأوراق المالية والاستثمار (CME 1)",
+    "Certificate_Entity": "الأكاديمية المالية",
+    "Certificate_Field_EN": "Finance And Auditing",
+    "Certificate_Field_AR": "المالية والمراجعة المالية",
+    "Description": "Entry-level qualification in the financial industry, covering the basics of securities, investment, and regulation.",
+    "Level": "Foundation"
+  },
+  {
+    "Certificate_Name_EN": "International Financial Compliance (CME 2)",
+    "Certificate_Name_AR": "الالتزام المالي الدولي  (CME 2)",
+    "Certificate_Entity": "الأكاديمية المالية",
+    "Certificate_Field_EN": "Finance And Auditing",
+    "Certificate_Field_AR": "المالية والمراجعة المالية",
+    "Description": "Focuses on global financial compliance regulations, anti-money laundering (AML), and counter-terrorist financing (CTF).",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "International Certificate in Wealth and Investment",
+    "Certificate_Name_AR": "الشهادة الدولية في إدارة الثروات والاستثمار CME4",
+    "Certificate_Entity": "الأكاديمية المالية",
+    "Certificate_Field_EN": "Finance And Auditing",
+    "Certificate_Field_AR": "المالية والمراجعة المالية",
+    "Description": "Certification covering wealth management, investment principles, and financial planning for private clients.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Corporate Finance Technical Foundations CME 5",
+    "Certificate_Name_AR": "شهادة الأسس الفنية لتمويل الشركات  (CME 5)",
+    "Certificate_Entity": "الأكاديمية المالية",
+    "Certificate_Field_EN": "Finance And Auditing",
+    "Certificate_Field_AR": "المالية والمراجعة المالية",
+    "Description": "Focuses on the technical fundamentals of corporate finance, including capital structure and valuation.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Certified Anti-Money Laundering Specialist CAMS",
+    "Certificate_Name_AR": "اختصاصي معتمد في مكافحة غسل الأموال CAMS",
+    "Certificate_Entity": "ACAMS",
+    "Certificate_Field_EN": "Finance And Auditing",
+    "Certificate_Field_AR": "المالية والمراجعة المالية",
+    "Description": "Globally recognized certification for professionals in the Anti-Money Laundering (AML) and financial crime prevention field.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Certified Compliance Officer (CCO)",
+    "Certificate_Name_AR": "شهادة مسؤول الالتزام المعتمد (CCO)",
+    "Certificate_Entity": "الأكاديمية المالية",
+    "Certificate_Field_EN": "Finance And Auditing",
+    "Certificate_Field_AR": "المالية والمراجعة المالية",
+    "Description": "Certification focused on developing, implementing, and managing an effective compliance program within an organization.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Advanced Industrial Engineering (IPCAIE)",
+    "Certificate_Name_AR": "شهادة  الهندسة الصناعية المتقدمة IPCAIE",
+    "Certificate_Entity": "IBDL Learning Group",
+    "Certificate_Field_EN": "Business and project administration",
+    "Certificate_Field_AR": "إدارة الأعمال والمشاريع",
+    "Description": "Certification covering advanced concepts and tools in industrial engineering, such as optimization and lean systems.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Chartered Global Management Accountant  CGMA",
+    "Certificate_Name_AR": "محاسب إداري عالمي معتمد CGMA",
+    "Certificate_Entity": "(CIMA) The Chartered Institute of Management",
+    "Certificate_Field_EN": "Accounting",
+    "Certificate_Field_AR": "المحاسبة",
+    "Description": "Global designation for management accountants focused on strategic decision-making, financial planning, and risk management.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "CompTIA Server+ Certification",
+    "Certificate_Name_AR": "شهادة كومبتيا إدارة خوادم  Server+",
+    "Certificate_Entity": "CompTIA",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Validates the skills necessary to build, maintain, troubleshoot, and secure server hardware and operating systems.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "CompTIA Linux+",
+    "Certificate_Name_AR": "شهادة كومبتيا إدارة نظام لينكس Linux+",
+    "Certificate_Entity": "CompTIA",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Validates the foundational skills necessary for a career in Linux system administration.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "CompTIA Network+ Certification",
+    "Certificate_Name_AR": "شهادة كومبتيا أساسيات الشبكات  Network +",
+    "Certificate_Entity": "CompTIA",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Validates the essential knowledge and skills needed to design, configure, manage, and troubleshoot basic wired and wireless networks.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "CompTIA Security+ Certification",
+    "Certificate_Name_AR": "كومبتيا اساسيات الحماية والأمن السيبراني Security+",
+    "Certificate_Entity": "CompTIA",
+    "Certificate_Field_EN": "Cyber security and cloud computing",
+    "Certificate_Field_AR": "الامن السيبراني والحوسبة السحابية",
+    "Description": "Validates foundational knowledge of core security concepts and best practices for securing a network and managing risk.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "CompTIA PenTest+ Certification",
+    "Certificate_Name_AR": "شهادة كومبتيا اختبار الاختراق PenTest +",
+    "Certificate_Entity": "CompTIA",
+    "Certificate_Field_EN": "Cyber security and cloud computing",
+    "Certificate_Field_AR": "الامن السيبراني والحوسبة السحابية",
+    "Description": "Certification focused on validating the hands-on skills in penetration testing and vulnerability management.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "CompTIA Cloud+ Certification",
+    "Certificate_Name_AR": "شهادة كومبتيا إدارة الحوسبة السحابية  Cloud +",
+    "Certificate_Entity": "CompTIA",
+    "Certificate_Field_EN": "Cyber security and cloud computing",
+    "Certificate_Field_AR": "الامن السيبراني والحوسبة السحابية",
+    "Description": "Validates the knowledge and skills required to manage and maintain cloud computing environments.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "CompTIA Advanced Security Practitioner CASP+",
+    "Certificate_Name_AR": "شهادة كومبتيا ممارس أمني المتقدم CASP +",
+    "Certificate_Entity": "CompTIA",
+    "Certificate_Field_EN": "Cyber security and cloud computing",
+    "Certificate_Field_AR": "الامن السيبراني والحوسبة السحابية",
+    "Description": "Advanced-level certification for security architects and engineers, focused on applying advanced security concepts.",
+    "Level": "Expert"
+  },
+  {
+    "Certificate_Name_EN": "CompTIA  Project + Certification",
+    "Certificate_Name_AR": "شهادة كومبتيا لإدارة المشاريع Project +",
+    "Certificate_Entity": "CompTIA",
+    "Certificate_Field_EN": "Business and project administration",
+    "Certificate_Field_AR": "إدارة الأعمال والمشاريع",
+    "Description": "Validates the foundational knowledge and skills for managing small- to medium-sized projects.",
+    "Level": "Associate"
+  },
+  {
+    "Certificate_Name_EN": "CompTIA   Data + Certification",
+    "Certificate_Name_AR": "شهادة كومبتيا البيانات Data +",
+    "Certificate_Entity": "CompTIA",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Certification focused on data analysis skills, including mining, cleansing, visualizing, and reporting.",
+    "Level": "Associate"
+  },
+  {
+    "Certificate_Name_EN": "CompTIA    ITF + Certification",
+    "Certificate_Name_AR": "شهادة كومبتيا أساسيات تقنية المعلومات ITF +",
+    "Certificate_Entity": "CompTIA",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Introductory certification for students and career changers to decide if a career in IT is right for them, covering IT fundamentals.",
+    "Level": "Foundation"
+  },
+  {
+    "Certificate_Name_EN": "Certified Chief Innovation Officer (CCInO)",
+    "Certificate_Name_AR": "الرئيس التنفيذي المعتمد للابتكار (CCInO)",
+    "Certificate_Entity": "GInI | Global Innovation Institute",
+    "Certificate_Field_EN": "Business and project administration",
+    "Certificate_Field_AR": "إدارة الأعمال والمشاريع",
+    "Description": "Executive-level certification for leading and driving innovation and strategic growth within an organization.",
+    "Level": "Executive"
+  },
+  {
+    "Certificate_Name_EN": "Certified Innovation Strategist (CInS)",
+    "Certificate_Name_AR": "استراتيجي الابتكار المعتمد (CInS)",
+    "Certificate_Entity": "GInI | Global Innovation Institute",
+    "Certificate_Field_EN": "Business and project administration",
+    "Certificate_Field_AR": "إدارة الأعمال والمشاريع",
+    "Description": "Focuses on developing and implementing a formal innovation strategy aligned with business goals.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Certified Innovation Professional (CInP)",
+    "Certificate_Name_AR": "محترف الابتكار المعتمد (CInP)",
+    "Certificate_Entity": "GInI | Global Innovation Institute",
+    "Certificate_Field_EN": "Business and project administration",
+    "Certificate_Field_AR": "إدارة الأعمال والمشاريع",
+    "Description": "Certification focused on the tools, processes, and frameworks for systematic innovation execution.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Certified Design Thinking Professional (CDTP)",
+    "Certificate_Name_AR": "محترف التفكير التصميمي المعتمد (CDTP)",
+    "Certificate_Entity": "GInI | Global Innovation Institute",
+    "Certificate_Field_EN": "Business and project administration",
+    "Certificate_Field_AR": "إدارة الأعمال والمشاريع",
+    "Description": "Certification in the human-centered approach to problem-solving and innovation, focusing on empathy, ideation, and prototyping.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Lean six sigma (Yellow Belt)",
+    "Certificate_Name_AR": "الشهادة المعتمدة لين 6  سيجما الحزام الأصفر",
+    "Certificate_Entity": "IASSC",
+    "Certificate_Field_EN": "Business and project administration",
+    "Certificate_Field_AR": "إدارة الأعمال والمشاريع",
+    "Description": "Entry-level certification in the fundamentals of Lean and Six Sigma methodologies for process improvement.",
+    "Level": "Foundation"
+  },
+  {
+    "Certificate_Name_EN": "Lean six sigma (Green Belt)",
+    "Certificate_Name_AR": "الشهادة المعتمدة لين 6 سيجما الحزام الأخضر",
+    "Certificate_Entity": "IASSC",
+    "Certificate_Field_EN": "Business and project administration",
+    "Certificate_Field_AR": "إدارة الأعمال والمشاريع",
+    "Description": "Mid-level certification for leading or supporting process improvement projects using Lean Six Sigma tools.",
+    "Level": "Associate"
+  },
+  {
+    "Certificate_Name_EN": "Certified Compliance Manager CCM",
+    "Certificate_Name_AR": "مدير امتثال معتمد CCM",
+    "Certificate_Entity": "معهد الامتثال العالم  GCI",
+    "Certificate_Field_EN": "Finance And Auditing",
+    "Certificate_Field_AR": "المالية والمراجعة المالية",
+    "Description": "Certification focused on managing an organization's compliance program, including policy development and risk assessment.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "CPTD Certified Professional in Talent Development",
+    "Certificate_Name_AR": "CPTD شهادة المحترف المعتمد في تنمية المواهب",
+    "Certificate_Entity": "Association for Talent Development ATD",
+    "Certificate_Field_EN": "Human Resources And Development",
+    "Certificate_Field_AR": "الموارد البشرية والتطوير",
+    "Description": "Advanced certification for talent development professionals, proving deep knowledge and application of expertise (Duplication).",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Associate professional in talent development APTD",
+    "Certificate_Name_AR": "APTD المساعد المحترف في تنمية المواهب",
+    "Certificate_Entity": "Association for Talent Development ATD",
+    "Certificate_Field_EN": "Human Resources And Development",
+    "Certificate_Field_AR": "الموارد البشرية والتطوير",
+    "Description": "Entry-level certification for talent development professionals, demonstrating foundational knowledge of the field (Duplication).",
+    "Level": "Associate"
+  },
+  {
+    "Certificate_Name_EN": "Certified Professional in Talent Development CPTD",
+    "Certificate_Name_AR": "المحترف المعتمد في تنمية المواهب CPTD",
+    "Certificate_Entity": "Association for Talent Development ATD",
+    "Certificate_Field_EN": "Human Resources And Development",
+    "Certificate_Field_AR": "الموارد البشرية والتطوير",
+    "Description": "Advanced certification for talent development professionals, proving deep knowledge and application of expertise (Duplication).",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "eLearning Technical Support eLTS",
+    "Certificate_Name_AR": "الدعم التقني للتعليم الإلكتروني eLTS",
+    "Certificate_Entity": "المركز الوطني للتعليم الإلكتروني",
+    "Certificate_Field_EN": "Human Resources And Development",
+    "Certificate_Field_AR": "الموارد البشرية والتطوير",
+    "Description": "Focuses on the technical skills required to support and maintain eLearning platforms and resolve user issues (Duplication).",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "eLearning Leadership Professional Certificate eLL",
+    "Certificate_Name_AR": "قيادة التعليم الإلكتروني eLL",
+    "Certificate_Entity": "المركز الوطني للتعليم الإلكتروني",
+    "Certificate_Field_EN": "Human Resources And Development",
+    "Certificate_Field_AR": "الموارد البشرية والتطوير",
+    "Description": "Focuses on leading and managing eLearning initiatives, teams, and technology within an organization (Duplication).",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "eLCD eLearning Content Development",
+    "Certificate_Name_AR": "تطوير محتوى التعليم الإلكتروني eLCD",
+    "Certificate_Entity": "المركز الوطني للتعليم الإلكتروني",
+    "Certificate_Field_EN": "Human Resources And Development",
+    "Certificate_Field_AR": "الموارد البشرية والتطوير",
+    "Description": "Focuses on the process, tools, and techniques for creating high-quality eLearning courses and materials (Duplication).",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "eLearning Quality Assurance (eLQA)",
+    "Certificate_Name_AR": "ضبط جودة التعليم الإلكتروني eLQA",
+    "Certificate_Entity": "المركز الوطني للتعليم الإلكتروني",
+    "Certificate_Field_EN": "Human Resources And Development",
+    "Certificate_Field_AR": "الموارد البشرية والتطوير",
+    "Description": "Focuses on ensuring the quality, accessibility, and effectiveness of online learning content and platforms (Duplication).",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "eLearning Experience Design (eLXD)",
+    "Certificate_Name_AR": "تصميم خبرات التعليم والتدريب الإلكتروني eLXD",
+    "Certificate_Entity": "المركز الوطني للتعليم الإلكتروني",
+    "Certificate_Field_EN": "Human Resources And Development",
+    "Certificate_Field_AR": "الموارد البشرية والتطوير",
+    "Description": "Focuses on designing engaging and effective online learning experiences (UX/UI for eLearning) (Duplication).",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Online Teaching\\ Training (OTT)",
+    "Certificate_Name_AR": "تقديم التعليم والتدريب الإلكتروني OTT",
+    "Certificate_Entity": "المركز الوطني للتعليم الإلكتروني",
+    "Certificate_Field_EN": "Human Resources And Development",
+    "Certificate_Field_AR": "الموارد البشرية والتطوير",
+    "Description": "Certification focused on the skills and tools required for effective online instruction and training (Duplication).",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Information Technology Infrastructure Library ITIL",
+    "Certificate_Name_AR": "ITIL مكتبة البنية التحتية للمعلوماتية",
+    "Certificate_Entity": "AXELOS",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Certification focusing on best practices for IT service management (ITSM) (Duplication).",
+    "Level": "Varies"
+  },
+  {
+    "Certificate_Name_EN": " Certified Financial Fraud Examiner   FFE SOCPA",
+    "Certificate_Name_AR": "فاحص الاحتيال المالي  FFE SOCPA",
+    "Certificate_Entity": "SOCPA",
+    "Certificate_Field_EN": "Finance And Auditing",
+    "Certificate_Field_AR": "المالية والمراجعة المالية",
+    "Description": "Specialized certification for financial professionals focused on detecting, investigating, and preventing financial fraud in the context of Saudi regulations.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Pro Certificate of Public Sector Accounting Standa",
+    "Certificate_Name_AR": "الشهادة المهنية في معايير المحاسبة للقطاع العام",
+    "Certificate_Entity": "SOCPA",
+    "Certificate_Field_EN": "Accounting",
+    "Certificate_Field_AR": "المحاسبة",
+    "Description": "Professional certificate focused on the specific accounting standards and practices required for the public sector.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": ".CIPP Certified International Procurement Pro",
+    "Certificate_Name_AR": "محترف المشتريات الدولية المعتمد CIPP",
+    "Certificate_Entity": "IPSCMI",
+    "Certificate_Field_EN": "Logistics And Supply Chain",
+    "Certificate_Field_AR": "اللوجستيات وسلاسل الإمداد",
+    "Description": "Certification focused on the skills and knowledge required for professional procurement and purchasing on an international level.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Certified International Procurement Manager CIPM",
+    "Certificate_Name_AR": "مدير المشتريات الدولية المعتمد  CIPM",
+    "Certificate_Entity": "IPSCMI",
+    "Certificate_Field_EN": "Logistics And Supply Chain",
+    "Certificate_Field_AR": "اللوجستيات وسلاسل الإمداد",
+    "Description": "Advanced certification for leading and managing procurement and purchasing functions globally.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": " Certified International Supply Chain Prof. CISCP",
+    "Certificate_Name_AR": "محترف سلسلة التوريد الدولية المعتمد  CISCP",
+    "Certificate_Entity": "IPSCMI",
+    "Certificate_Field_EN": "Logistics And Supply Chain",
+    "Certificate_Field_AR": "اللوجستيات وسلاسل الإمداد",
+    "Description": "Focuses on the essential principles and practices of international supply chain management.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Certified International Supply Chain Manager CISCM",
+    "Certificate_Name_AR": "مدير سلسلة التوريد الدولية المعتمد  CISCM",
+    "Certificate_Entity": "IPSCMI",
+    "Certificate_Field_EN": "Logistics And Supply Chain",
+    "Certificate_Field_AR": "اللوجستيات وسلاسل الإمداد",
+    "Description": "Advanced certification for leading and managing complex international supply chain operations.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Certified Customer Experience Professional (CCXP)",
+    "Certificate_Name_AR": "خبير معتمد في تجربة العملاء (CCXP)",
+    "Certificate_Entity": "CXPA",
+    "Certificate_Field_EN": "Marketing",
+    "Certificate_Field_AR": "التسويق",
+    "Description": "Globally recognized certification focused on designing, managing, and improving the end-to-end customer experience.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "PV Installer certification (SS-PVI)",
+    "Certificate_Name_AR": "شهادة تركيب الأنظمة الشمسية الكهروضوئية (SS-PVI)",
+    "Certificate_Entity": "الشركة السعودية للكهرباء",
+    "Certificate_Field_EN": "Power And Verification Assessment",
+    "Certificate_Field_AR": "الطاقة والقياس و التحقق",
+    "Description": "Certification for the installation and maintenance of solar photovoltaic (PV) systems.",
+    "Level": "Technician"
+  },
+  {
+    "Certificate_Name_EN": "PV Planner/Designer certification (SS-PVD)",
+    "Certificate_Name_AR": "شهادة مخطط/مصمم الأنظمة الشمسية الكهروضوئية (SS-PV",
+    "Certificate_Entity": "الشركة السعودية للكهرباء",
+    "Certificate_Field_EN": "Power And Verification Assessment",
+    "Certificate_Field_AR": "الطاقة والقياس و التحقق",
+    "Description": "Certification for the planning and design of solar photovoltaic (PV) systems.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Competency Comprehensive General Dentistry (CGD)",
+    "Certificate_Name_AR": "الكفاءة المهنية في طب الأسنان العام الشامل (CGD)",
+    "Certificate_Entity": "الهيئة السعودية للتخصصات الصحية",
+    "Certificate_Field_EN": "Health And Safety",
+    "Certificate_Field_AR": "الصحة و السلامة",
+    "Description": "Certification validating a high level of competency in all aspects of general dentistry practice.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "PMI Construction Professional (PMI-CP)",
+    "Certificate_Name_AR": "إدارة المشاريع الإنشائية (PMI-CP)",
+    "Certificate_Entity": "PMI",
+    "Certificate_Field_EN": "Engineering",
+    "Certificate_Field_AR": "الهندسة",
+    "Description": "Certification specifically focused on project management principles and best practices within the construction industry.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Facilitating Career Development FCD",
+    "Certificate_Name_AR": "تيسير التطوير المهني  FCD",
+    "Certificate_Entity": "NCDA",
+    "Certificate_Field_EN": "Human Resources And Development",
+    "Certificate_Field_AR": "الموارد البشرية والتطوير",
+    "Description": "Certification focused on teaching career planning, job search, and work-life balance skills to others.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Facilitating Career Development Instructor FCD-I",
+    "Certificate_Name_AR": "تدريب مدرب المرشد المهني    FCD-I",
+    "Certificate_Entity": "NCDA",
+    "Certificate_Field_EN": "Human Resources And Development",
+    "Certificate_Field_AR": "الموارد البشرية والتطوير",
+    "Description": "Certification for training and certifying others to become Facilitating Career Development professionals.",
+    "Level": "Instructor"
+  },
+  {
+    "Certificate_Name_EN": " ICAEW CFAB  in Finance, Accounting, and Business",
+    "Certificate_Name_AR": "شهادة في المالية والمحاسبة والأعمال  ICAEW CFAB",
+    "Certificate_Entity": "ICAEW معهد المحاسبين القانونيين",
+    "Certificate_Field_EN": "Accounting",
+    "Certificate_Field_AR": "المحاسبة",
+    "Description": "Qualification providing a strong foundation in finance, accounting, and business principles, often a stepping stone to the ACA.",
+    "Level": "Foundation"
+  },
+  {
+    "Certificate_Name_EN": "Pediatrics Advanced Life Support (SHA PALS )",
+    "Certificate_Name_AR": "دورة دعم الحياة المتقدم للأطفال (SHA PALS )",
+    "Certificate_Entity": "جمعية القلب السعودية",
+    "Certificate_Field_EN": "Health And Safety",
+    "Certificate_Field_AR": "الصحة و السلامة",
+    "Description": "Certification focused on life-saving techniques for infants and children, managed by the Saudi Health Authority (SHA).",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Neonatal Resuscitation Program ( SHA NRP )",
+    "Certificate_Name_AR": "برنامج الإنعاش المتقدم لحديثي الولادة    SHA NRP",
+    "Certificate_Entity": "جمعية القلب السعودية",
+    "Certificate_Field_EN": "Health And Safety",
+    "Certificate_Field_AR": "الصحة و السلامة",
+    "Description": "Certification focused on initial resuscitation techniques for newborns, managed by the Saudi Health Authority (SHA).",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Advanced Cardiac Life Support (SHA ACLS)",
+    "Certificate_Name_AR": "دورة الإنعاش القلبي الرئوي  المتقدم (SHA ACLS)",
+    "Certificate_Entity": "جمعية القلب السعودية",
+    "Certificate_Field_EN": "Health And Safety",
+    "Certificate_Field_AR": "الصحة و السلامة",
+    "Description": "Certification focused on advanced life support for cardiovascular emergencies in adults, managed by the Saudi Health Authority (SHA).",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Basic Life Support (BLS) Instructor course",
+    "Certificate_Name_AR": "دوره تدريب مدربين دعم الحياة الأساسي  SHA BLS",
+    "Certificate_Entity": "جمعية القلب السعودية",
+    "Certificate_Field_EN": "Health And Safety",
+    "Certificate_Field_AR": "الصحة و السلامة",
+    "Description": "Certification for training and certifying others in fundamental life support skills (CPR and choking).",
+    "Level": "Instructor"
+  },
+  {
+    "Certificate_Name_EN": "Basic Life Support (BLS) Provider course",
+    "Certificate_Name_AR": "دوره  دعم الحياة الأساسي SHA BLS",
+    "Certificate_Entity": "جمعية القلب السعودية",
+    "Certificate_Field_EN": "Health And Safety",
+    "Certificate_Field_AR": "الصحة و السلامة",
+    "Description": "Certification in fundamental life support skills, including CPR and how to relieve choking in adults, children, and infants.",
+    "Level": "Foundation"
+  },
+  {
+    "Certificate_Name_EN": "Advanced Cardiac Life Support (ACLS) Instructor",
+    "Certificate_Name_AR": "تدريب مدربين دعم الحياة المتقدم للبالغين SHA ACLS",
+    "Certificate_Entity": "جمعية القلب السعودية",
+    "Certificate_Field_EN": "Health And Safety",
+    "Certificate_Field_AR": "الصحة و السلامة",
+    "Description": "Certification for training and certifying others in Advanced Cardiac Life Support techniques.",
+    "Level": "Instructor"
+  },
+  {
+    "Certificate_Name_EN": "Advanced Trauma Operative Management (ATOM)",
+    "Certificate_Name_AR": "الإدارة الجراحية المتقدمة  للإصابات  (ATOM)",
+    "Certificate_Entity": "كلية الجراحين الامريكية",
+    "Certificate_Field_EN": "Health And Safety",
+    "Certificate_Field_AR": "الصحة و السلامة",
+    "Description": "Hands-on course for surgeons and residents focused on performing life-saving surgical procedures in severe trauma.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Advanced Trauma Life Support (ATLS)",
+    "Certificate_Name_AR": "دورة دعم الحياة المتقدم للاصابات الحرجة (ATLS)",
+    "Certificate_Entity": "كلية الجراحين الامريكية",
+    "Certificate_Field_EN": "Health And Safety",
+    "Certificate_Field_AR": "الصحة و السلامة",
+    "Description": "Certification focused on the initial assessment and management of trauma patients.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Advanced Trauma Care Nursing (ATCN)",
+    "Certificate_Name_AR": "دورة التمريض المتقدم للاصابات (ATCN)",
+    "Certificate_Entity": "جمعية الاصابات للممرضات بالتعاون مع كلية الجراحين",
+    "Certificate_Field_EN": "Health And Safety",
+    "Certificate_Field_AR": "الصحة و السلامة",
+    "Description": "Course for nurses focused on the specialized care of the trauma patient.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Advanced Life Support In Obstetrics Course (ALSO)",
+    "Certificate_Name_AR": "دعم الحياة المتقدم في طب التوليد ALSO",
+    "Certificate_Entity": "الأكاديمية الأمريكية لأطباء الأسرة",
+    "Certificate_Field_EN": "Health And Safety",
+    "Certificate_Field_AR": "الصحة و السلامة",
+    "Description": "Certification focused on managing common and emergency conditions in labor and delivery.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Care of the Critically Ill Surgical Patient CCRISP",
+    "Certificate_Name_AR": "دورة الرعاية الحرجة لمرضى الجراحة CCRISP",
+    "Certificate_Entity": "الأكاديمية الأمريكية لأطباء الأسرة",
+    "Certificate_Field_EN": "Health And Safety",
+    "Certificate_Field_AR": "الصحة و السلامة",
+    "Description": "Certification focused on the management of critically ill surgical patients in the perioperative period.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Pediatric Advanced Life Support (PALS) Instructor",
+    "Certificate_Name_AR": "مدربين دعم الحياة المتقدم للأطفال SHA PALS",
+    "Certificate_Entity": "جمعية القلب السعودية",
+    "Certificate_Field_EN": "Health And Safety",
+    "Certificate_Field_AR": "الصحة و السلامة",
+    "Description": "Certification for training and certifying others in Pediatric Advanced Life Support.",
+    "Level": "Instructor"
+  },
+  {
+    "Certificate_Name_EN": "Neonatal Resuscitation Program (NRP) Instructor",
+    "Certificate_Name_AR": "مدربين الانعاش القلبي الرئوي لحديثي الولاده NRP",
+    "Certificate_Entity": "جمعية القلب السعودية",
+    "Certificate_Field_EN": "Health And Safety",
+    "Certificate_Field_AR": "الصحة و السلامة",
+    "Description": "Certification for training and certifying others in Neonatal Resuscitation.",
+    "Level": "Instructor"
+  },
+  {
+    "Certificate_Name_EN": "First Aid, First Responder, and Cardiopulmonary Resuscitation (CPR)",
+    "Certificate_Name_AR": "الأسعافات الأولية والمنقذ الأول والأنعاش القلبي ال",
+    "Certificate_Entity": "جمعية القلب السعودية",
+    "Certificate_Field_EN": "Health And Safety",
+    "Certificate_Field_AR": "الصحة و السلامة",
+    "Description": "Certification covering basic emergency care, including first aid, and life-saving CPR techniques.",
+    "Level": "Foundation"
+  },
+  {
+    "Certificate_Name_EN": "Heart Saver First Aid & Cardiopulmonary HSFA CPR A",
+    "Certificate_Name_AR": "الأسعافات الأولية والمنقذ الأول والأنعاش القلبي ال",
+    "Certificate_Entity": "جمعية القلب السعودية",
+    "Certificate_Field_EN": "Health And Safety",
+    "Certificate_Field_AR": "الصحة و السلامة",
+    "Description": "A certification focused on basic first aid and CPR skills for lay rescuers.",
+    "Level": "Foundation"
+  },
+  {
+    "Certificate_Name_EN": " (AC)   Autism Certification",
+    "Certificate_Name_AR": "شهـــادة التوحــد (AC)",
+    "Certificate_Entity": "IBCCES",
+    "Certificate_Field_EN": "Human Resources And Development",
+    "Certificate_Field_AR": "الموارد البشرية والتطوير",
+    "Description": "Certification for professionals who work with individuals on the autism spectrum, covering best practices and interventions.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Autodesk Certified Professional in Revit for Elect",
+    "Certificate_Name_AR": "محترف معتمد في برنامج التصميم الكهربائي",
+    "Certificate_Entity": "AutoDesk",
+    "Certificate_Field_EN": "Business and project administration",
+    "Certificate_Field_AR": "إدارة الأعمال والمشاريع",
+    "Description": "Validates advanced skills in using Revit software for electrical system design and documentation.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Autodesk Cer. Pro. in Revit for Mechanical Design",
+    "Certificate_Name_AR": "محترف معتمد في برنامج التصميم الميكانيكي",
+    "Certificate_Entity": "AutoDesk",
+    "Certificate_Field_EN": "Business and project administration",
+    "Certificate_Field_AR": "إدارة الأعمال والمشاريع",
+    "Description": "Validates advanced skills in using Revit software for mechanical (HVAC) system design and documentation.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": " Certi. Prof. in Revit for Structural Design",
+    "Certificate_Name_AR": "محترف معتمد في برنامج التصميم الإنشائي",
+    "Certificate_Entity": "AutoDesk",
+    "Certificate_Field_EN": "Business and project administration",
+    "Certificate_Field_AR": "إدارة الأعمال والمشاريع",
+    "Description": "Validates advanced skills in using Revit software for structural modeling and documentation.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Cert. Prof. in Revit for Architectural Design",
+    "Certificate_Name_AR": "محترف معتمد في برنامج التصميم المعماري",
+    "Certificate_Entity": "AutoDesk",
+    "Certificate_Field_EN": "Business and project administration",
+    "Certificate_Field_AR": "إدارة الأعمال والمشاريع",
+    "Description": "Validates advanced skills in using Revit software for architectural design and documentation.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Construction Safety and Health Program",
+    "Certificate_Name_AR": "محترف معتمد في برنامج السلامة والصحة في البناء",
+    "Certificate_Entity": "OSHA Academy",
+    "Certificate_Field_EN": "Business and project administration",
+    "Certificate_Field_AR": "إدارة الأعمال والمشاريع",
+    "Description": "Certification focused on occupational safety and health standards and practices specific to the construction industry.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "RIDQC CERTIFICATION INTERIOR DESIGN",
+    "Certificate_Name_AR": "محترف معتمد في التصميم الداخلي RIDQC",
+    "Certificate_Entity": "RIDQC GLOBAL CAMPUS",
+    "Certificate_Field_EN": "Business and project administration",
+    "Certificate_Field_AR": "إدارة الأعمال والمشاريع",
+    "Description": "Certification for interior design professionals, validating competence in design principles, codes, and project management.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Information Security Management Principles",
+    "Certificate_Name_AR": "شهادة في مبادئ إدارة أمن المعلومات CISMP",
+    "Certificate_Entity": "BCS",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Focuses on the core principles and concepts of managing information security within an organization.",
+    "Level": "Foundation"
+  },
+  {
+    "Certificate_Name_EN": "ISO 27001",
+    "Certificate_Name_AR": "آيزو 27001",
+    "Certificate_Entity": "PECB",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Certification focused on implementing, maintaining, and continually improving an Information Security Management System (ISMS) based on the ISO 27001 standard.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "ISTQB Foundation Certified Tester Agile Tester",
+    "Certificate_Name_AR": "مُختبر معتمد من ISTQB في اختبار البرمجيات",
+    "Certificate_Entity": "ISTQB",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Certification for software testers working in an Agile environment, covering collaboration and Agile testing techniques.",
+    "Level": "Foundation"
+  },
+  {
+    "Certificate_Name_EN": "ISTQB Foundation Performance Tester  Certified Tes",
+    "Certificate_Name_AR": "مُختبر أداء معتمد من ISTQB",
+    "Certificate_Entity": "ISTQB",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Certification for software testers focused on non-functional testing, specifically performance, load, and stress testing.",
+    "Level": "Foundation"
+  },
+  {
+    "Certificate_Name_EN": "ISTQB Foundation Moblie Tester",
+    "Certificate_Name_AR": "مُختبر معتمد للتطبيقات المحمولة من ISTQB",
+    "Certificate_Entity": "ISTQB",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Certification for software testers focused on the unique aspects of testing mobile applications.",
+    "Level": "Foundation"
+  },
+  {
+    "Certificate_Name_EN": "DASA DevOps Fundamentals",
+    "Certificate_Name_AR": "شهادة أساسيات DevOps من DASA",
+    "Certificate_Entity": "DASA",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Certification covering the foundational concepts and principles of DevOps, including culture, automation, and measurement.",
+    "Level": "Foundation"
+  },
+  {
+    "Certificate_Name_EN": "Certified Scrum Master CSM",
+    "Certificate_Name_AR": "خبير Scrum معتمد CSM",
+    "Certificate_Entity": "Scrum Alliance",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Certification focused on the role of the Scrum Master, including facilitating Scrum teams and removing impediments.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "TOGAF 9 Foundation",
+    "Certificate_Name_AR": "شهادة أساسيات TOGAF",
+    "Certificate_Entity": "The Open Group",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Entry-level certification covering the fundamental concepts of The Open Group Architecture Framework (TOGAF) for Enterprise Architecture.",
+    "Level": "Foundation"
+  },
+  {
+    "Certificate_Name_EN": "Hootsuite Social Media Marketing Certification",
+    "Certificate_Name_AR": "شهادة التسويق الاجتماعي من Hootsuite",
+    "Certificate_Entity": "Hootsuite",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Focuses on best practices for social media management, content creation, and analytics using the Hootsuite platform.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Alibaba cloud associate",
+    "Certificate_Name_AR": "أخصائي Alibaba Cloud معتمد",
+    "Certificate_Entity": "Alibaba",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Entry-level certification covering the foundational knowledge of Alibaba Cloud services and solutions.",
+    "Level": "Associate"
+  },
+  {
+    "Certificate_Name_EN": "Certified Data Management Professional (CDMP)",
+    "Certificate_Name_AR": "محترف إدارة البيانات المعتمد (CDMP)",
+    "Certificate_Entity": "DAMA",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Certification covering the foundational to advanced principles and best practices of data management.",
+    "Level": "Varies"
+  },
+  {
+    "Certificate_Name_EN": "Agile Scrum foundation",
+    "Certificate_Name_AR": "أساسيات Agile Scrum",
+    "Certificate_Entity": "Exin",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Entry-level certification in the core principles, practices, and terminology of the Agile and Scrum methodologies.",
+    "Level": "Foundation"
+  },
+  {
+    "Certificate_Name_EN": "Agile Scrum Certified DevOps Engineer – Foundation",
+    "Certificate_Name_AR": "شهادة أساسيات DevOps",
+    "Certificate_Entity": "DevOps University",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Certification covering the integration of Agile, Scrum, and DevOps principles for continuous delivery.",
+    "Level": "Foundation"
+  },
+  {
+    "Certificate_Name_EN": "Pl 300: Power BI analyst",
+    "Certificate_Name_AR": "محلل Power BI",
+    "Certificate_Entity": "Microsoft",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Microsoft certification focused on designing and building scalable data models and reports using Power BI.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "CIW User Interface Designer",
+    "Certificate_Name_AR": "مصمم واجهة المستخدم من CIW",
+    "Certificate_Entity": "CIW",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Certification focused on the principles and practices of designing effective and user-friendly web interfaces.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Agile Scrum Product Owner",
+    "Certificate_Name_AR": "مالك منتج Agile Scrum",
+    "Certificate_Entity": "Exin",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Certification focused on maximizing the value of the product resulting from the work of the Development Team in Scrum.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Red Hat Certified System Administrator (EX-200)",
+    "Certificate_Name_AR": "مسؤول نظام معتمد من Red Hat",
+    "Certificate_Entity": "Red Hat",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Validates the core skills required to administer Red Hat Enterprise Linux environments.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Red Hat Certified Engineer (EX-294)",
+    "Certificate_Name_AR": "مهندس معتمد من Red Hat",
+    "Certificate_Entity": "Red Hat",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Advanced certification for senior Linux administrators focused on configuring networking services and security on Red Hat Enterprise Linux.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Red Hat Certified Specialist in Service Management",
+    "Certificate_Name_AR": "أخصائي معتمد في إدارة الخدمات والأتمتة   Red Hat",
+    "Certificate_Entity": "Red Hat",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Focuses on managing and automating IT services using Red Hat technologies.",
+    "Level": "Specialist"
+  },
+  {
+    "Certificate_Name_EN": "Red Hat Certified Specialist in Security (EX-415)",
+    "Certificate_Name_AR": "أخصائي معتمد من Red Hat في الحماية: لينيكس (RHCSS)",
+    "Certificate_Entity": "Red Hat",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Focuses on securing Red Hat Enterprise Linux systems and environments.",
+    "Level": "Specialist"
+  },
+  {
+    "Certificate_Name_EN": "Red Hat Certified OpenShift Administration (EX-280",
+    "Certificate_Name_AR": "متخصص معتمد في إدارة OpenShift من Red Hat (EX-280)",
+    "Certificate_Entity": "Red Hat",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Focuses on managing and administering the Red Hat OpenShift Container Platform.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Apple App Development with Swift Associate",
+    "Certificate_Name_AR": "مطور تطبيقات  Swift معتمد من Apple",
+    "Certificate_Entity": "Apple",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Entry-level certification demonstrating foundational knowledge of Swift programming and app development concepts.",
+    "Level": "Associate"
+  },
+  {
+    "Certificate_Name_EN": "App Development with Swift Certified User",
+    "Certificate_Name_AR": "مستخدم معتمد لتطوير التطبيقات باستخدام Swift",
+    "Certificate_Entity": "Apple",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Certification for individuals who can demonstrate a basic understanding of app development using Swift.",
+    "Level": "Foundation"
+  },
+  {
+    "Certificate_Name_EN": "OutSystems Associate Traditional Web Developer",
+    "Certificate_Name_AR": "مطور ويب تقليدي معتمد من OutSystems",
+    "Certificate_Entity": "OutSystems",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Entry-level certification focused on building traditional web applications using the OutSystems low-code platform.",
+    "Level": "Associate"
+  },
+  {
+    "Certificate_Name_EN": "5G Associate Certification Nokia Bell Labs 5G Foun",
+    "Certificate_Name_AR": "شهادة معتمدة في اساسيات الجيل الخامس من Nokia Bell",
+    "Certificate_Entity": "Nokia",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Entry-level certification covering the fundamental concepts and architecture of 5G technology.",
+    "Level": "Associate"
+  },
+  {
+    "Certificate_Name_EN": "5G Professional Certification Nokia Bell Labs 5G N",
+    "Certificate_Name_AR": "شهادة مهنية في شبكات الجيل الخامس من Nokia Bell La",
+    "Certificate_Entity": "Nokia",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Focuses on advanced concepts related to the 5G New Radio (NR) access network.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "5G Professional Certification Nokia Bell Labs 5G S",
+    "Certificate_Name_AR": "شهادة مهنية في حماية شبكات الجيل الخامس من Nokia B",
+    "Certificate_Entity": "Nokia",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Focuses on advanced concepts related to the 5G Standalone (SA) core network and services.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Distributed Cloud Networks 5G Nokia Bell Labs",
+    "Certificate_Name_AR": "Nokia Bell شبكات الحوسبة السحابية الموزعة للجيل 5",
+    "Certificate_Entity": "Nokia",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Focuses on the implementation and management of cloud-native architecture for 5G networks.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "5G  Nokia Bell Labs Industrial Automation",
+    "Certificate_Name_AR": " الأتمتة الصناعية للجيل الخامس من Nokia Bell Labs",
+    "Certificate_Entity": "Nokia",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Focuses on the use of 5G technology to enable industrial automation, including IoT and private wireless networks.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Nokia  5G Artificial Intelligence and Data Driven",
+    "Certificate_Name_AR": "  الذكاء الاصطناعي وشبكات 5G من Nokia Bell Labs",
+    "Certificate_Entity": "Nokia",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Focuses on applying AI and machine learning techniques to optimize and manage 5G networks.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Nokia  and Mobile Networks 5G Cloud Native RAN",
+    "Certificate_Name_AR": "Nokia وشبكات المحمولة للجيل5 5G Cloud Native RAN",
+    "Certificate_Entity": "Nokia",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Focuses on the cloud-native principles and deployment of the 5G Radio Access Network (RAN).",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Unity Certified User: VR Developer",
+    "Certificate_Name_AR": "مطور VR معتمد من Unity",
+    "Certificate_Entity": "Unity",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Entry-level certification in using the Unity platform to create basic virtual reality (VR) experiences.",
+    "Level": "Foundation"
+  },
+  {
+    "Certificate_Name_EN": "Unity Certified User: Programmer",
+    "Certificate_Name_AR": "  مبرمج معتمد في استخدام  Unity",
+    "Certificate_Entity": "Unity",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Entry-level certification in basic C# programming skills within the Unity environment.",
+    "Level": "Foundation"
+  },
+  {
+    "Certificate_Name_EN": "Unity Certified User: Artist",
+    "Certificate_Name_AR": "فنان  معتمد في استخدام Unity",
+    "Certificate_Entity": "Unity",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Entry-level certification in importing, setting up, and manipulating art assets within Unity.",
+    "Level": "Foundation"
+  },
+  {
+    "Certificate_Name_EN": "Unity Certified Associate: Game Developer",
+    "Certificate_Name_AR": "مطور ألعاب مساعد معتمد من Unity",
+    "Certificate_Entity": "Unity",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Certification demonstrating fundamental game development skills across various disciplines in Unity.",
+    "Level": "Associate"
+  },
+  {
+    "Certificate_Name_EN": "Unity Certified Associate: Programmer",
+    "Certificate_Name_AR": "مبرمج مساعد معتمد من Unity",
+    "Certificate_Entity": "Unity",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Certification demonstrating a solid understanding of C# programming for game development in Unity.",
+    "Level": "Associate"
+  },
+  {
+    "Certificate_Name_EN": "Unity Certified Associate: Artist",
+    "Certificate_Name_AR": "فنان مساعد معتمد من Unity",
+    "Certificate_Entity": "Unity",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Certification demonstrating a solid understanding of artistic workflows and asset integration in Unity.",
+    "Level": "Associate"
+  },
+  {
+    "Certificate_Name_EN": "Unity Certified professional: Programmer",
+    "Certificate_Name_AR": "مبرمج محترف معتمد من Unity",
+    "Certificate_Entity": "Unity",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Advanced certification for experienced Unity programmers focused on optimizing performance and complex systems.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Unity Certified professional: Artist",
+    "Certificate_Name_AR": "فنان محترف معتمد من Unity",
+    "Certificate_Entity": "Unity",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Advanced certification for experienced Unity artists focused on advanced rendering, lighting, and visual effects.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Huawei Certified ICT Associate - AI",
+    "Certificate_Name_AR": "أخصائي مساعد ICT المعتمد من Huawei",
+    "Certificate_Entity": "Huawei",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Entry-level certification covering the foundational knowledge and basic applications of Artificial Intelligence.",
+    "Level": "Associate"
+  },
+  {
+    "Certificate_Name_EN": "Angular Training Angular Certification - Level 1",
+    "Certificate_Name_AR": "شهادة Angular - المستوى 1",
+    "Certificate_Entity": "Angular Training",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Certification in the fundamentals of building single-page applications using the Angular framework.",
+    "Level": "Foundation"
+  },
+  {
+    "Certificate_Name_EN": "Google Cloud Professional ML Engineer",
+    "Certificate_Name_AR": "شهادة مهندس Google Cloud المحترف في تعلم الآلة",
+    "Certificate_Entity": "Google",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Certification for designing, building, and deploying machine learning models on Google Cloud Platform.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "AWS Certified Machine Learning Specialty",
+    "Certificate_Name_AR": "أخصائي معتمد في تعلم الآلة من AWS",
+    "Certificate_Entity": "AWS",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Advanced certification focused on designing, implementing, and deploying ML solutions on the AWS cloud.",
+    "Level": "Specialist"
+  },
+  {
+    "Certificate_Name_EN": "Microsoft Certified: Azure Data Engineer Associate",
+    "Certificate_Name_AR": "مهندس بيانات مساعد  معتمد من مايكروسوفت في Azure",
+    "Certificate_Entity": "Microsoft",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Certification for professionals who design and implement the management, monitoring, and security of data solutions using Azure services.",
+    "Level": "Associate"
+  },
+  {
+    "Certificate_Name_EN": "Oracle Java Certified Foundations Associate",
+    "Certificate_Name_AR": "أخصائي مساعد  معتمد في جافا من أوراكل",
+    "Certificate_Entity": "Oracle",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Entry-level certification covering the fundamental concepts and syntax of the Java programming language.",
+    "Level": "Foundation"
+  },
+  {
+    "Certificate_Name_EN": "CIW JavaScript Specialist",
+    "Certificate_Name_AR": "أخصائي JavaScript من CIW",
+    "Certificate_Entity": "CIW",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Certification focused on the essential skills for writing, debugging, and testing JavaScript code for web development.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Autodesk Maya Certified User",
+    "Certificate_Name_AR": "مستخدم معتمد في Autodesk Maya",
+    "Certificate_Entity": "Autodesk",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Certification demonstrating basic proficiency in using Autodesk Maya for 3D modeling, animation, and rendering.",
+    "Level": "Foundation"
+  },
+  {
+    "Certificate_Name_EN": "OutSystems Associate Developer (ODC)",
+    "Certificate_Name_AR": "مطور مساعد (ODC)",
+    "Certificate_Entity": "OutSystems",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Entry-level certification focused on building applications using the OutSystems Developer Cloud (ODC) low-code platform.",
+    "Level": "Associate"
+  },
+  {
+    "Certificate_Name_EN": "HubSpot Content Marketing Certification",
+    "Certificate_Name_AR": "شهادة HubSpot في تسويق المحتوى",
+    "Certificate_Entity": "HubSpot",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Focuses on the strategy, creation, and distribution of content to attract and engage a target audience.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "C# Certification",
+    "Certificate_Name_AR": "شهادة البرمجة بلغة C#",
+    "Certificate_Entity": "W3Schools",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Certification validating proficiency in the C# programming language, often used for Windows and game development.",
+    "Level": "Varies"
+  },
+  {
+    "Certificate_Name_EN": "Blockchain Foundation",
+    "Certificate_Name_AR": "أساسيات تقنية البلوكشين",
+    "Certificate_Entity": "The Cloud Credential Council (CCC)",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Entry-level certification covering the fundamental concepts, architecture, and potential of blockchain technology.",
+    "Level": "Foundation"
+  },
+  {
+    "Certificate_Name_EN": "Big Data Foundation",
+    "Certificate_Name_AR": "أساسيات البيانات الضخمة",
+    "Certificate_Entity": "The Cloud Credential Council (CCC)",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Entry-level certification covering the basic concepts, characteristics, and common technologies associated with Big Data.",
+    "Level": "Foundation"
+  },
+  {
+    "Certificate_Name_EN": "Artificial Intelligence Foundation",
+    "Certificate_Name_AR": "أساسيات الذكاء الاصطناعي",
+    "Certificate_Entity": "The Cloud Credential Council (CCC)",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Entry-level certification covering the fundamental concepts, history, and basic applications of Artificial Intelligence.",
+    "Level": "Foundation"
+  },
+  {
+    "Certificate_Name_EN": "Internet Of Things Foundation",
+    "Certificate_Name_AR": "أساسيات إنترنت الأشياء",
+    "Certificate_Entity": "The Cloud Credential Council (CCC)",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Entry-level certification covering the basic concepts, components, and architecture of the Internet of Things (IoT).",
+    "Level": "Foundation"
+  },
+  {
+    "Certificate_Name_EN": "AWS Certified DevOps Engineer",
+    "Certificate_Name_AR": "مهندس DevOps معتمد من أمازون",
+    "Certificate_Entity": "AWS",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Advanced certification focused on implementing and managing continuous delivery systems and automation on AWS.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Certified Entry-Level Python Programmer (PCEP)",
+    "Certificate_Name_AR": "مبرمج لغة بايثون معتمد - مستوى 1",
+    "Certificate_Entity": "Python Institute",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Entry-level certification validating foundational knowledge of the Python programming language.",
+    "Level": "Foundation"
+  },
+  {
+    "Certificate_Name_EN": "Certified Blockchain Developer",
+    "Certificate_Name_AR": "مطور بلوكشين معتمد",
+    "Certificate_Entity": "EC-Council",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Certification focused on the technical skills required to design and implement smart contracts and decentralized applications (dApps).",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Certified Digital Product Manager",
+    "Certificate_Name_AR": "مدير منتجات رقمية معتمد",
+    "Certificate_Entity": "AIPMM",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Focuses on the strategies and skills required to manage and grow digital products, from concept to launch.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Certified Product Manager",
+    "Certificate_Name_AR": "مدير منتجات معتمد",
+    "Certificate_Entity": "AIPMM",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Certification focused on the full product lifecycle, from market analysis and strategy to launch and post-launch optimization.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "ISTQB-Foundation Level Certification (CTFL)",
+    "Certificate_Name_AR": "مُختبر معتمد من شهادة مختبر برمجيات - مستوى مبتدئ",
+    "Certificate_Entity": "ISTQB",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Entry-level certification covering the basic concepts, terminology, and key practices of software testing.",
+    "Level": "Foundation"
+  },
+  {
+    "Certificate_Name_EN": "Databricks Certified Data Engineer Associate",
+    "Certificate_Name_AR": "مساعد مهندس بيانات معتمد من Databricks",
+    "Certificate_Entity": "Databricks",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Certification focused on foundational skills in using the Databricks Lakehouse Platform for data engineering tasks.",
+    "Level": "Associate"
+  },
+  {
+    "Certificate_Name_EN": "Databricks Certified Data Engineer Professional",
+    "Certificate_Name_AR": "مهندس  بيانات محترف معتمد من Databricks",
+    "Certificate_Entity": "Databricks",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Advanced certification focused on designing and implementing complex, high-performance data engineering solutions on Databricks.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Certified Data Science Practitioner (CDSP)",
+    "Certificate_Name_AR": "ممارس معتمد في علوم البيانات",
+    "Certificate_Entity": "Certnexus",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Certification validating practical skills in the data science lifecycle, including modeling, analysis, and communication.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "AWS Certified Cloud Practitioner",
+    "Certificate_Name_AR": "ممارس معتمد في الحوسبة السحابية من AWS",
+    "Certificate_Entity": "AWS",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Entry-level certification providing a foundational understanding of the AWS Cloud, its services, and its benefits.",
+    "Level": "Foundation"
+  },
+  {
+    "Certificate_Name_EN": "Salesforce Administrator",
+    "Certificate_Name_AR": "مسؤول إدارة  Salesforce",
+    "Certificate_Entity": "Salesforce",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Certification focused on configuring and managing user accounts, security settings, and standard features within the Salesforce platform.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Salesforce Business Analyst",
+    "Certificate_Name_AR": "محلل بيانات  Saleforce",
+    "Certificate_Entity": "Salesforce",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Certification focused on eliciting requirements, analyzing business needs, and facilitating the design of Salesforce solutions.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Salesforce Advanced Administrator",
+    "Certificate_Name_AR": "مسؤول إدارة  Salesforce  مقدم",
+    "Certificate_Entity": "Salesforce",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Advanced certification for experienced administrators focused on complex configuration, data management, and automation features.",
+    "Level": "Advanced"
+  },
+  {
+    "Certificate_Name_EN": "Salesforce Platform App Builder",
+    "Certificate_Name_AR": "مطور تطبيقات  منصة Salesforce",
+    "Certificate_Entity": "Salesforce",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Certification focused on designing, building, and deploying custom applications on the Salesforce platform using low-code tools.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "UiPath Certified Professional Automation Developer",
+    "Certificate_Name_AR": "أخصائي أول تطوير  أتمتة  معتمد من UiPath",
+    "Certificate_Entity": "UiPath",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Certification validating the technical skills to design, develop, and troubleshoot complex RPA solutions using UiPath Studio.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Frontend Development Certification",
+    "Certificate_Name_AR": "مطور واجهات المستخدم",
+    "Certificate_Entity": "W3Scool",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Certification covering the essential skills for building the user-facing side of websites and applications (HTML, CSS, JavaScript).",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Tableau Certified Data Analyst",
+    "Certificate_Name_AR": "محلل بيانات معتمد من Tableau",
+    "Certificate_Entity": "Tableau",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Certification focused on the skills needed to connect to data, build visualizations, perform analysis, and create dashboards using Tableau.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Microsoft Certified: Azure Developer Associate",
+    "Certificate_Name_AR": "شهادة مايكروسوفت مطور Azure مساعد",
+    "Certificate_Entity": "Microsoft",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Certification for developers who design, build, test, and maintain cloud applications on Microsoft Azure.",
+    "Level": "Associate"
+  },
+  {
+    "Certificate_Name_EN": "Designing and Implementing Microsoft DevOps soluti",
+    "Certificate_Name_AR": "تصميم وتنفيذ حلول Microsoft DevOps",
+    "Certificate_Entity": "Microsoft",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Certification focused on implementing DevOps practices, including continuous integration/delivery, on Azure.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Microsoft Certified: Azure Administrator Associate",
+    "Certificate_Name_AR": "شهادة مايكروسوفت مسؤول Azure Developer Associate",
+    "Certificate_Entity": "Microsoft",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Certification for administrators who implement, manage, and monitor identity, governance, storage, compute, and virtual networks in Azure.",
+    "Level": "Associate"
+  },
+  {
+    "Certificate_Name_EN": "Microsoft Certified: Azure Solutions Architect Exp",
+    "Certificate_Name_AR": "شهادة مايكروسوفت مهندس حلول Azure",
+    "Certificate_Entity": "Microsoft",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Advanced certification for architects who design cloud and hybrid solutions running on Azure, focusing on security, compute, and networking.",
+    "Level": "Expert"
+  },
+  {
+    "Certificate_Name_EN": "Meta Marketing Analytics Professional Certificate",
+    "Certificate_Name_AR": "شهادة محترف تحليلات التسويق من Meta",
+    "Certificate_Entity": "Meta",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Focuses on using data and analytics tools to measure and optimize marketing campaigns across Meta's platforms (Facebook, Instagram).",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Meta Certified Marketing Science Professional",
+    "Certificate_Name_AR": "محترف علوم تسويق معتمد من Meta",
+    "Certificate_Entity": "Meta",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Advanced certification focused on experimental design, statistical analysis, and measurement to drive business decisions using Meta's platforms.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Professional Cloud Architects",
+    "Certificate_Name_AR": "مهندس السحابة المحترف",
+    "Certificate_Entity": "Google",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Advanced Google Cloud certification for designing and managing robust, scalable, and secure cloud architectures.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Professional Data Engineer",
+    "Certificate_Name_AR": "مهندس البيانات المحترف",
+    "Certificate_Entity": "Google",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Advanced Google Cloud certification for designing, building, and managing data processing systems on Google Cloud (Duplication).",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Professional Cloud DevOps Engineer",
+    "Certificate_Name_AR": "مهندس DevOps السحابي المحترف",
+    "Certificate_Entity": "Google",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Advanced Google Cloud certification for implementing and managing DevOps practices and automation on Google Cloud.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Certified Translator Certificate",
+    "Certificate_Name_AR": "وثيقة المترجم المعتمد",
+    "Certificate_Entity": "هيئة الأدب والنشر والترجمة",
+    "Certificate_Field_EN": "Business and project administration",
+    "Certificate_Field_AR": "إدارة الأعمال والمشاريع",
+    "Description": "Certification validating professional competency in translating texts between specified languages.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "CompTIA Security X",
+    "Certificate_Name_AR": "شهادة  CompTIA SecurityX",
+    "Certificate_Entity": "CompTIA",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "A certification that has been retired, but generally represented an advanced security certification. (Assuming an error/old name).",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "International Certified Corporate Governance ICCGO",
+    "Certificate_Name_AR": "مسؤول حوكمة الشركات الدولي المعتمد ICCGO",
+    "Certificate_Entity": "الاتحاد الدولي للحوكمة والمخاطر والالتزام AGRC",
+    "Certificate_Field_EN": "Evaluation And Quality Control",
+    "Certificate_Field_AR": "التقييم وإدارة الجودة",
+    "Description": "Certification focused on the principles and practices of corporate governance in a global context.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Certified Industrial Energy Professional   CIEP",
+    "Certificate_Name_AR": " اخصائي طاقة صناعية معتمد   CIEP",
+    "Certificate_Entity": "Association of Energy Engineers  aee",
+    "Certificate_Field_EN": "Power And Verification Assessment",
+    "Certificate_Field_AR": "الطاقة والقياس و التحقق",
+    "Description": "Focuses on energy management and efficiency specifically within industrial facilities and processes.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Business Energy Professional BEP",
+    "Certificate_Name_AR": "اخصائي اعمال طاقة معتمد BEP",
+    "Certificate_Entity": "Association of Energy Engineers  aee",
+    "Certificate_Field_EN": "Power And Verification Assessment",
+    "Certificate_Field_AR": "الطاقة والقياس و التحقق",
+    "Description": "Focuses on energy efficiency and management in a business context, often covering commercial buildings and fleet operations.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Excellence in Human Resources Management CEHRM",
+    "Certificate_Name_AR": "شهادة التميز في إدارة الموارد البشرية",
+    "Certificate_Entity": "SHRM",
+    "Certificate_Field_EN": "Human Resources And Development",
+    "Certificate_Field_AR": "الموارد البشرية والتطوير",
+    "Description": "Certification focused on advanced HR strategies, leadership, and achieving organizational excellence through HR practices.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Operational Excellence Consultant",
+    "Certificate_Name_AR": "استشاري في التميز التشغيلي",
+    "Certificate_Entity": "CPD Standards Office – British Accreditation",
+    "Certificate_Field_EN": "Evaluation And Quality Control",
+    "Certificate_Field_AR": "التقييم وإدارة الجودة",
+    "Description": "Certification focused on consulting and implementing strategies for achieving high performance and efficiency in business operations.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "ICAEW CFAB  Finance, Accounting and Business",
+    "Certificate_Name_AR": "شهادة في المالية والمحاسبة والأعمال (ICAEW CFAB)",
+    "Certificate_Entity": "معهد المحاسبين القانونيين  ICAEW",
+    "Certificate_Field_EN": "Finance And Auditing",
+    "Certificate_Field_AR": "المالية والمراجعة المالية",
+    "Description": "Qualification providing a strong foundation in finance, accounting, and business principles (Duplication).",
+    "Level": "Foundation"
+  },
+  {
+    "Certificate_Name_EN": "The American Certified Supply Chain Manager ACSCM",
+    "Certificate_Name_AR": "مدير سلسلة الإمداد الأمريكي المعتمد  ACSCM",
+    "Certificate_Entity": "AAPSCM",
+    "Certificate_Field_EN": "Logistics And Supply Chain",
+    "Certificate_Field_AR": "اللوجستيات وسلاسل الإمداد",
+    "Description": "Certification focused on leading and managing the end-to-end supply chain within the context of American/international business practices.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "American Certified Procurement Professional (ACPP)",
+    "Certificate_Name_AR": "المحترف الأمريكي المعتمد في المشتريات  ACPP",
+    "Certificate_Entity": "AAPSCM",
+    "Certificate_Field_EN": "Logistics And Supply Chain",
+    "Certificate_Field_AR": "اللوجستيات وسلاسل الإمداد",
+    "Description": "Certification focused on professional procurement and purchasing skills.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "American Certified Procurement Manager (ACPM)",
+    "Certificate_Name_AR": "مدير المشتريات الأمريكي المعتمد  ACPM",
+    "Certificate_Entity": "AAPSCM",
+    "Certificate_Field_EN": "Logistics And Supply Chain",
+    "Certificate_Field_AR": "اللوجستيات وسلاسل الإمداد",
+    "Description": "Certification focused on the management and leadership of procurement functions.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": " The American Certified Tourism Manager (ACTM)",
+    "Certificate_Name_AR": "مدير السياحة الأمريكي المعتمد  ACTM",
+    "Certificate_Entity": "AAPSCM",
+    "Certificate_Field_EN": "Tourism And Hospitality",
+    "Certificate_Field_AR": "السياحة والضيافة",
+    "Description": "Certification focused on the strategic management and operation of tourism-related businesses or destinations.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "The American Certified Tourism Professional (ACTP)",
+    "Certificate_Name_AR": "المحترف الأمريكي المعتمد في السياحة  ACTP",
+    "Certificate_Entity": "AAPSCM",
+    "Certificate_Field_EN": "Tourism And Hospitality",
+    "Certificate_Field_AR": "السياحة والضيافة",
+    "Description": "Certification focused on core professional skills and knowledge in the tourism industry.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "The American Certified Supply Chain ACSCP",
+    "Certificate_Name_AR": "المحترف الأمريكي المعتمد في سلسلة الإمداد  ACSCP",
+    "Certificate_Entity": "AAPSCM",
+    "Certificate_Field_EN": "Logistics And Supply Chain",
+    "Certificate_Field_AR": "اللوجستيات وسلاسل الإمداد",
+    "Description": "Certification focused on professional skills and knowledge in supply chain management (similar to CSCP but with a possible regional focus).",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Pediatrics Advanced Life Support (PALS)",
+    "Certificate_Name_AR": "دورة دعم الحياة المتقدم للأطفال (PALS)",
+    "Certificate_Entity": "جمعية القلب الأمريكية AHA",
+    "Certificate_Field_EN": "Health And Safety",
+    "Certificate_Field_AR": "الصحة و السلامة",
+    "Description": "Certification focused on life-saving techniques for infants and children (Non-SHA version).",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Neonatal Resuscitation Program (NRP)",
+    "Certificate_Name_AR": "برنامج الإنعاش المتقدم لحديثي الولادة  (NRP)",
+    "Certificate_Entity": "جمعية القلب الأمريكية AHA",
+    "Certificate_Field_EN": "Health And Safety",
+    "Certificate_Field_AR": "الصحة و السلامة",
+    "Description": "Certification focused on initial resuscitation techniques for newborns (Non-SHA version).",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": " AHA Advanced Stroke Life Support (ASLS)",
+    "Certificate_Name_AR": "دعم الحياة المتقدم للجلطات الدماغية (ASLS) AHA",
+    "Certificate_Entity": "جمعية القلب الأمريكية AHA",
+    "Certificate_Field_EN": "Health And Safety",
+    "Certificate_Field_AR": "الصحة و السلامة",
+    "Description": "Certification focused on the assessment and treatment of acute stroke patients.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Advanced Cardiac Life Support (ACLS) AHA",
+    "Certificate_Name_AR": "دورة دعم الحياة القلبي الوعائي المتقدم (ACLS) AHA",
+    "Certificate_Entity": "جمعية القلب الأمريكية AHA",
+    "Certificate_Field_EN": "Health And Safety",
+    "Certificate_Field_AR": "الصحة و السلامة",
+    "Description": "Certification focused on advanced life support for cardiovascular emergencies in adults (American Heart Association version).",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Basic Life Support (BLS) Course – AHA (American Heart Association)",
+    "Certificate_Name_AR": "دورة دعم الحياة الأساسي (BLS) AHA",
+    "Certificate_Entity": "جمعية القلب الأمريكية AHA",
+    "Certificate_Field_EN": "Health And Safety",
+    "Certificate_Field_AR": "الصحة و السلامة",
+    "Description": "Certification in fundamental life support skills, including CPR and choking relief (American Heart Association version).",
+    "Level": "Foundation"
+  },
+  {
+    "Certificate_Name_EN": "Associate Chartered Accountant  ACA",
+    "Certificate_Name_AR": "شهادة المحاسب القانوني المعتمد  ACA",
+    "Certificate_Entity": "ICAEW",
+    "Certificate_Field_EN": "Finance And Auditing",
+    "Certificate_Field_AR": "المالية والمراجعة المالية",
+    "Description": "A prestigious qualification for professional accountants, covering advanced financial reporting, auditing, and tax.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Precious Metals and Gemstones Valuation Fellowship",
+    "Certificate_Name_AR": "الزمالة في تقييم المعادن الثمينة والأحجار الكريمة",
+    "Certificate_Entity": "الهيئة السعودية للمقيمين المعتمدين \"\"تقييم\"\"",
+    "Certificate_Field_EN": "Business and project administration",
+    "Certificate_Field_AR": "إدارة الأعمال والمشاريع",
+    "Description": "Advanced certification in the expert appraisal and valuation of precious metals and gemstones.",
+    "Level": "Expert"
+  },
+  {
+    "Certificate_Name_EN": "Real Estate Inspector Certificate",
+    "Certificate_Name_AR": "شهادة معاين عقارات",
+    "Certificate_Entity": "الهيئة السعودية للمقيمين المعتمدين \"\"تقييم\"\"",
+    "Certificate_Field_EN": "Business and project administration",
+    "Certificate_Field_AR": "إدارة الأعمال والمشاريع",
+    "Description": "Certification focused on the knowledge and procedures for inspecting residential or commercial real estate for condition and code compliance.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Machinery and Equipment Inspector Certificate",
+    "Certificate_Name_AR": "شهادة معاين آلات ومعدات وممتلكات منقولة",
+    "Certificate_Entity": "الهيئة السعودية للمقيمين المعتمدين \"\"تقييم\"\"",
+    "Certificate_Field_EN": "Business and project administration",
+    "Certificate_Field_AR": "إدارة الأعمال والمشاريع",
+    "Description": "Certification focused on the knowledge and procedures for inspecting machinery and equipment for condition and safety.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Vehicle Damage Inspector Certificate",
+    "Certificate_Name_AR": "شهادة معاين أضرار مركبات",
+    "Certificate_Entity": "الهيئة السعودية للمقيمين المعتمدين \"\"تقييم\"\"",
+    "Certificate_Field_EN": "Business and project administration",
+    "Certificate_Field_AR": "إدارة الأعمال والمشاريع",
+    "Description": "Certification focused on the knowledge and procedures for inspecting and assessing damage to vehicles.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Certified Transport and Distribution CTDP",
+    "Certificate_Name_AR": "المحترف المعتمد في النقل والتوزيع    CTDP",
+    "Certificate_Entity": "IRU Academy",
+    "Certificate_Field_EN": "Logistics And Supply Chain",
+    "Certificate_Field_AR": "اللوجستيات وسلاسل الإمداد",
+    "Description": "Certification focused on the planning, management, and optimization of transport and distribution operations.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "SHRM ACE.W+ ACE Leadership for Women Professionals",
+    "Certificate_Name_AR": "شهادة المهارات المتقدمة للمرأة في العمل من  SHRM",
+    "Certificate_Entity": "SHRM",
+    "Certificate_Field_EN": "Human Resources And Development",
+    "Certificate_Field_AR": "الموارد البشرية والتطوير",
+    "Description": "An advanced certificate program focused on developing leadership, strategic thinking, and influence skills for women in the workplace.",
+    "Level": "Advanced"
+  },
+  {
+    "Certificate_Name_EN": "ACE Leadership for Women Professionals SHRM ACE.W",
+    "Certificate_Name_AR": "شهادة المهارات الأساسية للمرأة في العمل SHRM ACE.W",
+    "Certificate_Entity": "SHRM",
+    "Certificate_Field_EN": "Human Resources And Development",
+    "Certificate_Field_AR": "الموارد البشرية والتطوير",
+    "Description": "An advanced certificate program focused on developing leadership, strategic thinking, and influence skills for women in the workplace (Duplication).",
+    "Level": "Advanced"
+  },
+  {
+    "Certificate_Name_EN": "AWS Certified Solutions Architect – Associate",
+    "Certificate_Name_AR": "شهادة AWS مهندس مساعد الحلول المعتمد",
+    "Certificate_Entity": "AWS",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Certification for individuals who can design cost-effective, fault-tolerant, and scalable systems on the AWS cloud.",
+    "Level": "Associate"
+  },
+  {
+    "Certificate_Name_EN": "Certified Google Gemini Professional",
+    "Certificate_Name_AR": "محترف Google Gemini",
+    "Certificate_Entity": "blockchain-council",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Certification focused on the advanced capabilities, use cases, and deployment of Google's Gemini models for complex applications.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Certified LLM Developer",
+    "Certificate_Name_AR": "مطور النماذج اللغوية الضخمة",
+    "Certificate_Entity": "1200",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Certification focused on the technical skills for developing, fine-tuning, and deploying applications based on Large Language Models (LLMs).",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "AWS Certified Data Engineer - Associate",
+    "Certificate_Name_AR": "مهندس البيانات المعتمد من AWS - المستوى المساعد",
+    "Certificate_Entity": "AWS",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Certification focused on foundational skills in data ingestion, transformation, and managing data pipelines on AWS.",
+    "Level": "Associate"
+  },
+  {
+    "Certificate_Name_EN": "Certified Developer—MLOps Professional",
+    "Certificate_Name_AR": "مطور معتمد - محترف MLOps",
+    "Certificate_Entity": "Intel",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Advanced certification focused on implementing DevOps principles for Machine Learning (ML) systems, covering deployment and monitoring.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Datadog Fundamentals",
+    "Certificate_Name_AR": "أساسيات Datadog",
+    "Certificate_Entity": "Datadog",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Certification focused on the basic concepts and use of the Datadog platform for monitoring, logging, and application performance management.",
+    "Level": "Foundation"
+  },
+  {
+    "Certificate_Name_EN": "Log Management Fundamentals",
+    "Certificate_Name_AR": "أساسيات إدارة السجلات",
+    "Certificate_Entity": "Datadog",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Focuses on the basic principles and best practices for collecting, centralizing, analyzing, and retaining system and application logs.",
+    "Level": "Foundation"
+  },
+  {
+    "Certificate_Name_EN": "SAP Certified Associate - Data Analyst - SAP Analy",
+    "Certificate_Name_AR": "مساعد معتمد من SAP - محلل بيانات - SAP Analytics C",
+    "Certificate_Entity": "SAP",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Certification focused on using SAP Analytics Cloud for data analysis, reporting, and dashboarding.",
+    "Level": "Associate"
+  },
+  {
+    "Certificate_Name_EN": "UiPath Certified Professional Specialized AI Assoc",
+    "Certificate_Name_AR": "محترف معتمد من UiPath متخصص في الذكاء الاصطناعي",
+    "Certificate_Entity": "UiPath",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Certification focused on the integration of Artificial Intelligence and Machine Learning into RPA workflows using UiPath.",
+    "Level": "Associate"
+  },
+  {
+    "Certificate_Name_EN": "Automation Business Analyst Professional",
+    "Certificate_Name_AR": "محلل أعمال محترف في الأتمتة UiPath",
+    "Certificate_Entity": "UiPath",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Focuses on the business analysis skills required to identify, scope, and document processes for automation using RPA.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "AWS Certified Big Data – Specialty",
+    "Certificate_Name_AR": "شهادة AWS اخصائي البيانات الضخمة",
+    "Certificate_Entity": "AWS",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Advanced certification focused on the design and implementation of complex AWS Big Data services. (Note: Being replaced by Data Analytics - Specialty).",
+    "Level": "Specialist"
+  },
+  {
+    "Certificate_Name_EN": "Certified AI Transformation Leader (CAITLTM)",
+    "Certificate_Name_AR": "قائد التحول الذكاء الاصطناعي المعتمد (CAITLTM)",
+    "Certificate_Entity": "United States Artificial Intelligence Institute",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Executive-level certification focused on leading the strategic adoption and implementation of AI across an organization.",
+    "Level": "Executive"
+  },
+  {
+    "Certificate_Name_EN": "Azure AI Fundamentals",
+    "Certificate_Name_AR": "أساسيات الذكاء الاصطناعي من Azure",
+    "Certificate_Entity": "Microsoft",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Entry-level certification covering the fundamental concepts of AI, Machine Learning, Computer Vision, and Natural Language Processing on Azure.",
+    "Level": "Foundation"
+  },
+  {
+    "Certificate_Name_EN": "Oracle Machine Learning using Autonomous Database",
+    "Certificate_Name_AR": "التعلم الآلي من أوراكل باستخدام قاعدة البيانات الذ",
+    "Certificate_Entity": "Oracle",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Focuses on using Oracle's Autonomous Database features to build, train, and deploy machine learning models.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "IBM Certified Associate Developer - Quantum Comput",
+    "Certificate_Name_AR": "مطور معتمد من IBM - الحوسبة الكمومية",
+    "Certificate_Entity": "IBM",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Entry-level certification focused on the foundational principles of quantum computing and programming using IBM Quantum Experience.",
+    "Level": "Associate"
+  },
+  {
+    "Certificate_Name_EN": "Le Wagon Data Science Certification",
+    "Certificate_Name_AR": "شهادة علم البيانات من Le Wagon",
+    "Certificate_Entity": "Le Wagon",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Certification from a well-known bootcamp/program covering practical skills in data science, including Python, machine learning, and data analysis.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Certified Chatbot Expert™",
+    "Certificate_Name_AR": "خبير Chatbot المعتمد",
+    "Certificate_Entity": "blockchain-council",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Focuses on the design, development, and deployment of conversational AI agents (chatbots) for various business uses.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Certified Generative AI Expert™",
+    "Certificate_Name_AR": "خبير الذكاء الاصطناعي التوليدي",
+    "Certificate_Entity": "blockchain-council",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Advanced certification focused on the theory and application of Generative AI models (e.g., GANs, Transformers) for content creation.",
+    "Level": "Expert"
+  },
+  {
+    "Certificate_Name_EN": "Certified ChatGPT Expert",
+    "Certificate_Name_AR": "خبير ChatGPT",
+    "Certificate_Entity": "blockchain-council",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Focuses on advanced prompt engineering, custom instructions, and leveraging the capabilities of the ChatGPT model for professional tasks.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Certified Artificial Intelligence Developer™",
+    "Certificate_Name_AR": "مطور الذكاء الاصطناعي",
+    "Certificate_Entity": "blockchain-council",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Certification focused on the technical skills required to build and deploy AI models and applications.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Certified AI Powered Coding Expert",
+    "Certificate_Name_AR": "خبير الترميز المدعوم بالذكاء الاصطناعي",
+    "Certificate_Entity": "blockchain-council",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Focuses on using AI-powered tools and models (like GitHub Copilot) to enhance coding efficiency and quality.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Certified Artificial Intelligence Expert™",
+    "Certificate_Name_AR": "خبير الذكاء الاصطناعي",
+    "Certificate_Entity": "blockchain-council",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Broad, advanced certification covering deep knowledge and application of multiple AI sub-fields and technologies.",
+    "Level": "Expert"
+  },
+  {
+    "Certificate_Name_EN": "Introduction to Artificial Intelligence with Pytho",
+    "Certificate_Name_AR": "مقدمة في الذكاء الاصطناعي باستخدام بايثون",
+    "Certificate_Entity": "Harvard",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Focuses on the foundational concepts of AI and their practical implementation using the Python programming language.",
+    "Level": "Foundation"
+  },
+  {
+    "Certificate_Name_EN": "AWS Certified AI Practitioner - Foundational",
+    "Certificate_Name_AR": "ممارس الذكاء الاصطناعي المعتمد من AWS - المستوى ال",
+    "Certificate_Entity": "AWS",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Entry-level certification covering the basic concepts and services of AI/ML on the AWS Cloud.",
+    "Level": "Foundation"
+  },
+  {
+    "Certificate_Name_EN": "(IC3 Spark)",
+    "Certificate_Name_AR": "الشهادة الدولية للحاسب والانترنت (IC3 Spark)",
+    "Certificate_Entity": "شركة سيرتي بورت العالمية -   Certiport",
+    "Certificate_Field_EN": "Computer Networks and Information Technology",
+    "Certificate_Field_AR": "شبكات الحاسب وتقنية المعلومات",
+    "Description": "Certification for younger students demonstrating basic digital literacy and computer skills, a subset of IC3.",
+    "Level": "Foundation"
+  },
+  {
+    "Certificate_Name_EN": "Adult ECMO Rehabilitation for Physiotherapists",
+    "Certificate_Name_AR": "المتخصص لتأهيل البالغين في الأكسجة الغشائية ( ECMO)",
+    "Certificate_Entity": "تجمع الرياض الصحي الثاني",
+    "Certificate_Field_EN": "Health And Safety",
+    "Certificate_Field_AR": "الصحة و السلامة",
+    "Description": "Specialized certification for physiotherapists focused on the safe and effective rehabilitation of patients on ECMO (Extracorporeal Membrane Oxygenation).",
+    "Level": "Specialist"
+  },
+  {
+    "Certificate_Name_EN": "Trainer Development in Compounded Sterile Preparation",
+    "Certificate_Name_AR": "برنامج تأهيل المدربين في تحضير المحاليل الوريدية",
+    "Certificate_Entity": "تجمع الرياض الصحي الثاني",
+    "Certificate_Field_EN": "Health And Safety",
+    "Certificate_Field_AR": "الصحة و السلامة",
+    "Description": "Focuses on developing trainers who can educate others on the correct procedures and standards for preparing sterile drug compounds.",
+    "Level": "Instructor"
+  },
+  {
+    "Certificate_Name_EN": "Difficult Tracheostomy Tube Change",
+    "Certificate_Name_AR": "البرنامج  المتخصص في تغيير الانبوب الرغامي الصعب",
+    "Certificate_Entity": "تجمع الرياض الصحي الثاني",
+    "Certificate_Field_EN": "Health And Safety",
+    "Certificate_Field_AR": "الصحة و السلامة",
+    "Description": "Specialized training focused on managing complications and best practices for changing tracheostomy tubes in complex patients.",
+    "Level": "Specialist"
+  },
+  {
+    "Certificate_Name_EN": "Healthcare Innovation Management",
+    "Certificate_Name_AR": "البرنامج المتخصص في إدارة الابتكار للرعاية الصحية",
+    "Certificate_Entity": "تجمع الرياض الصحي الثاني",
+    "Certificate_Field_EN": "Health And Safety",
+    "Certificate_Field_AR": "الصحة و السلامة",
+    "Description": "Focuses on the principles and strategies for leading, managing, and implementing innovation in healthcare settings.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Clinical Nurse Educator (CNE)",
+    "Certificate_Name_AR": "البرنامج المهني المتخصص لمدرب تمريض سريري",
+    "Certificate_Entity": "تجمع الرياض الصحي الثاني",
+    "Certificate_Field_EN": "Health And Safety",
+    "Certificate_Field_AR": "الصحة و السلامة",
+    "Description": "Certification for registered nurses who specialize in academic or healthcare-setting education for other nurses and staff.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Hair care and Style / Intermediate",
+    "Certificate_Name_AR": "العناية بالشعر و تجميله  متوسط",
+    "Certificate_Entity": "    L’Oreal  Saudi Arabia",
+    "Certificate_Field_EN": "Arts",
+    "Certificate_Field_AR": "الفنون",
+    "Description": "Certification demonstrating a working knowledge and proficiency in standard hair care and styling techniques.",
+    "Level": "Intermediate"
+  },
+  {
+    "Certificate_Name_EN": "Hair care and Style /  Expert",
+    "Certificate_Name_AR": "العناية بالشعر و تجميله  احترافي",
+    "Certificate_Entity": "L’Oreal",
+    "Certificate_Field_EN": "Arts",
+    "Certificate_Field_AR": "الفنون",
+    "Description": "Advanced certification demonstrating mastery and specialized expertise in complex hair care and styling techniques.",
+    "Level": "Expert"
+  },
+  {
+    "Certificate_Name_EN": "Certified Junior Consultant",
+    "Certificate_Name_AR": "شهادة استشاري مبتدئ GMCI",
+    "Certificate_Entity": "Global Management Consulting Institute",
+    "Certificate_Field_EN": "Business and project administration",
+    "Certificate_Field_AR": "إدارة الأعمال والمشاريع",
+    "Description": "Entry-level certification for management consultants, covering foundational methodologies and analytical skills.",
+    "Level": "Associate"
+  },
+  {
+    "Certificate_Name_EN": "Certified Consultant",
+    "Certificate_Name_AR": "شهادة استشاري معتمد GMCI",
+    "Certificate_Entity": "Global Management Consulting Institute",
+    "Certificate_Field_EN": "Business and project administration",
+    "Certificate_Field_AR": "إدارة الأعمال والمشاريع",
+    "Description": "Mid-level certification for management consultants, validating a professional's ability to lead and execute consulting projects.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Certified Senior Consultant",
+    "Certificate_Name_AR": "شهادة استشاري أول GMCI",
+    "Certificate_Entity": "Global Management Consulting Institute",
+    "Certificate_Field_EN": "Business and project administration",
+    "Certificate_Field_AR": "إدارة الأعمال والمشاريع",
+    "Description": "Advanced certification for experienced management consultants, focused on strategic leadership and complex client engagement.",
+    "Level": "Advanced"
+  },
+  {
+    "Certificate_Name_EN": "Certified Research Professional",
+    "Certificate_Name_AR": "الباحث المعتمد",
+    "Certificate_Entity": "أكاديمية ٣٢",
+    "Certificate_Field_EN": "Human Resources And Development",
+    "Certificate_Field_AR": "الموارد البشرية والتطوير",
+    "Description": "Certification focused on the ethical conduct, methodology, and management of research projects across various domains.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "The Certified Radiation Protection Officer Certifi",
+    "Certificate_Name_AR": "شهادة مسؤول الحماية من الإشعاع المعتمد",
+    "Certificate_Entity": "أكاديمية ٣٢",
+    "Certificate_Field_EN": "Health And Safety",
+    "Certificate_Field_AR": "الصحة و السلامة",
+    "Description": "Certification for professionals responsible for monitoring and managing radiation safety and compliance in an organization.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Fundamentals of Pediatric Dentistry",
+    "Certificate_Name_AR": "البرنامج المتخصص في أساسيات طب أسنان الأطفال",
+    "Certificate_Entity": "40000",
+    "Certificate_Field_EN": "Health And Safety",
+    "Certificate_Field_AR": "الصحة و السلامة",
+    "Description": "Certification focused on the basic diagnosis, prevention, and treatment of dental issues in children and adolescents.",
+    "Level": "Foundation"
+  },
+  {
+    "Certificate_Name_EN": "Fundamentals of Complete Denture",
+    "Certificate_Name_AR": "البرنامج المهني المتخصص في الأطقم المتحركة",
+    "Certificate_Entity": "هيئة التخصصات الصحية",
+    "Certificate_Field_EN": "Business and project administration",
+    "Certificate_Field_AR": "إدارة الأعمال والمشاريع",
+    "Description": "Certification focused on the basic principles, design, and fabrication of complete dentures for edentulous patients.",
+    "Level": "Foundation"
+  },
+  {
+    "Certificate_Name_EN": "Standard of Care for Edentulous Patient",
+    "Certificate_Name_AR": "البرنامج المهني للأطقم المتحركة المدعومة بالزراعة",
+    "Certificate_Entity": "هيئة التخصصات الصحية",
+    "Certificate_Field_EN": "Health And Safety",
+    "Certificate_Field_AR": "الصحة و السلامة",
+    "Description": "Focuses on the current best practices and treatment options for patients who have lost all of their natural teeth.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Fund. of orthodontic diagnosis and treatment plann",
+    "Certificate_Name_AR": "البرنامج المتخصص في أساسيات طب وتقويم الأسنان",
+    "Certificate_Entity": "تجمع الرياض الصحي الثاني",
+    "Certificate_Field_EN": "Health And Safety",
+    "Certificate_Field_AR": "الصحة و السلامة",
+    "Description": "Certification focused on the basic principles of identifying orthodontic problems and creating preliminary treatment plans.",
+    "Level": "Foundation"
+  },
+  {
+    "Certificate_Name_EN": "Fundamentals of Endodontics Certification",
+    "Certificate_Name_AR": "شهادة أساسيات طب الأسنان في تقنيات علاج الجذور",
+    "Certificate_Entity": "هيئة التخصصات الصحية",
+    "Certificate_Field_EN": "Health And Safety",
+    "Certificate_Field_AR": "الصحة و السلامة",
+    "Description": "Certification focused on the basic diagnosis and non-surgical treatment of diseases of the dental pulp and periapical tissues.",
+    "Level": "Foundation"
+  },
+  {
+    "Certificate_Name_EN": "Fundamentals of periodontal diagnosis and therapy",
+    "Certificate_Name_AR": "أساسيات تشخيص وعلاج أمراض وجراجه اللثة",
+    "Certificate_Entity": "هيئة التخصصات الصحية",
+    "Certificate_Field_EN": "Health And Safety",
+    "Certificate_Field_AR": "الصحة و السلامة",
+    "Description": "Certification focused on the basic diagnosis and non-surgical treatment of gum disease (periodontal issues).",
+    "Level": "Foundation"
+  },
+  {
+    "Certificate_Name_EN": "Fundamentals of Oral Surgery",
+    "Certificate_Name_AR": "البرنامج المهني المتخصص لجراحة الفم",
+    "Certificate_Entity": "هيئة التخصصات الصحية",
+    "Certificate_Field_EN": "Health And Safety",
+    "Certificate_Field_AR": "الصحة و السلامة",
+    "Description": "Certification focused on the basic techniques and principles of common surgical procedures performed in the oral cavity.",
+    "Level": "Foundation"
+  },
+  {
+    "Certificate_Name_EN": "Restorative dentistry with biomimetic approach",
+    "Certificate_Name_AR": "طب الأسنان الترميمي النهج الحيوي المحاكي للطبيعة",
+    "Certificate_Entity": "هيئة التخصصات الصحية",
+    "Certificate_Field_EN": "Health And Safety",
+    "Certificate_Field_AR": "الصحة و السلامة",
+    "Description": "Focuses on using dental materials and techniques to mimic the natural properties of tooth structure in restorative procedures.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Certified Hospitality Instructor (Level 1)",
+    "Certificate_Name_AR": "محاضر ضيافة معتمد (المستوى الأول)",
+    "Certificate_Entity": "AHLEI",
+    "Certificate_Field_EN": "Tourism And Hospitality",
+    "Certificate_Field_AR": "السياحة والضيافة",
+    "Description": "Entry-level certification for instructing basic hospitality courses and training modules.",
+    "Level": "Instructor"
+  },
+  {
+    "Certificate_Name_EN": "Certified Hospitality Instructor (Level 2)",
+    "Certificate_Name_AR": "محاضر ضيافة معتمد (المستوى الثاني)",
+    "Certificate_Entity": "AHLEI",
+    "Certificate_Field_EN": "Tourism And Hospitality",
+    "Certificate_Field_AR": "السياحة والضيافة",
+    "Description": "Advanced certification for designing and delivering complex hospitality curricula and training programs.",
+    "Level": "Instructor"
+  },
+  {
+    "Certificate_Name_EN": "Certified Front Desk Representative",
+    "Certificate_Name_AR": "ممثل مكاتب أمامية معتمد",
+    "Certificate_Entity": "AHLEI",
+    "Certificate_Field_EN": "Tourism And Hospitality",
+    "Certificate_Field_AR": "السياحة والضيافة",
+    "Description": "Certification focused on the essential skills for front office operations, guest check-in/out, and service.",
+    "Level": "Foundation"
+  },
+  {
+    "Certificate_Name_EN": "Certified Maintenance Employee",
+    "Certificate_Name_AR": "موظف صيانة معتمد",
+    "Certificate_Entity": "AHLEI",
+    "Certificate_Field_EN": "Tourism And Hospitality",
+    "Certificate_Field_AR": "السياحة والضيافة",
+    "Description": "Certification focused on the basic skills required for routine maintenance and repair tasks in a commercial or lodging facility.",
+    "Level": "Foundation"
+  },
+  {
+    "Certificate_Name_EN": "Certified Innovation Associate (CInA)®",
+    "Certificate_Name_AR": "مساعد الابتكار المعتمد  (CInA)®",
+    "Certificate_Entity": "Global Innovation Institute - Gini",
+    "Certificate_Field_EN": "Human Resources And Development",
+    "Certificate_Field_AR": "الموارد البشرية والتطوير",
+    "Description": "Entry-level certification covering the basic terminology and concepts of organizational innovation.",
+    "Level": "Associate"
+  },
+  {
+    "Certificate_Name_EN": "Certified in Planning and Inventory Management (CPIM)",
+    "Certificate_Name_AR": "معتمد في إدارة التخطيط والمخزون  CPIM",
+    "Certificate_Entity": "ASCM",
+    "Certificate_Field_EN": "Logistics And Supply Chain",
+    "Certificate_Field_AR": "اللوجستيات وسلاسل الإمداد",
+    "Description": "Certification focused on the essential principles of forecasting, production planning, inventory management, and materials management.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "NCFE CACHE Level 3  (Early Years Educator)",
+    "Certificate_Name_AR": "دبلوم ( 3 NCFE CACHE - معلمة الطفولة المبكرة)",
+    "Certificate_Entity": "CACHE",
+    "Certificate_Field_EN": "Human Resources And Development",
+    "Certificate_Field_AR": "الموارد البشرية والتطوير",
+    "Description": "Qualification focused on the knowledge and skills required to be an Early Years Educator, working with children from birth to five.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Certified Professional Accountant (CPA-UK)",
+    "Certificate_Name_AR": "شهادة محاسب معتمد  CPA-UK",
+    "Certificate_Entity": "IAAB",
+    "Certificate_Field_EN": "Accounting",
+    "Certificate_Field_AR": "المحاسبة",
+    "Description": "Professional accounting qualification in the UK, similar to other CPA designations, covering advanced accounting, tax, and audit.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Governance, Risk & Compliance Officer GRCO",
+    "Certificate_Name_AR": "مسؤول الحوكمة والمخاطر والالتزام GRCO",
+    "Certificate_Entity": "الاتحاد الدولي للحوكمة والمخاطر والالتزام AGRC",
+    "Certificate_Field_EN": "Finance And Auditing",
+    "Certificate_Field_AR": "المالية والمراجعة المالية",
+    "Description": "Certification focused on the practical application of GRC principles in the role of a GRC officer.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "International Compliance Officer ICO",
+    "Certificate_Name_AR": "مسؤول الالتزام الدولي ICO",
+    "Certificate_Entity": "الاتحاد الدولي للحوكمة والمخاطر والالتزام AGRC",
+    "Certificate_Field_EN": "Finance And Auditing",
+    "Certificate_Field_AR": "المالية والمراجعة المالية",
+    "Description": "Certification focused on managing compliance programs in a global regulatory environment.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Financial Crimes Prevention Specialist FCPS",
+    "Certificate_Name_AR": "أخصائي مكافحة الجرائم المالية المعتمد FCPS",
+    "Certificate_Entity": "الاتحاد الدولي للحوكمة والمخاطر والالتزام AGRC",
+    "Certificate_Field_EN": "Finance And Auditing",
+    "Certificate_Field_AR": "المالية والمراجعة المالية",
+    "Description": "Certification focused on the techniques and strategies for preventing and detecting financial crimes, including money laundering and fraud.",
+    "Level": "Specialist"
+  },
+  {
+    "Certificate_Name_EN": "Certified Risk Management Officer CRMO",
+    "Certificate_Name_AR": "مسؤول إدارة المخاطر المعتمد CRMO",
+    "Certificate_Entity": "الاتحاد الدولي للحوكمة والمخاطر والالتزام AGRC",
+    "Certificate_Field_EN": "Finance And Auditing",
+    "Certificate_Field_AR": "المالية والمراجعة المالية",
+    "Description": "Certification focused on identifying, assessing, and mitigating various business risks as a dedicated risk officer.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Certified Applied Innovation Leader™ Capil",
+    "Certificate_Name_AR": "قائد الابتكار التطبيقي Capil",
+    "Certificate_Entity": "INNOVATION360",
+    "Certificate_Field_EN": "Human Resources And Development",
+    "Certificate_Field_AR": "الموارد البشرية والتطوير",
+    "Description": "Certification focused on leading innovation projects and applying innovation frameworks in a practical business setting.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Certified Human Resources Manager CHRM",
+    "Certificate_Name_AR": "شهادة مدير موارد بشرية معتمد  CHRM",
+    "Certificate_Entity": "PDI",
+    "Certificate_Field_EN": "Human Resources And Development",
+    "Certificate_Field_AR": "الموارد البشرية والتطوير",
+    "Description": "Certification focused on the operational and strategic management of the human resources function.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Professional Readiness of Accountant",
+    "Certificate_Name_AR": "الجاهزية المهنية للمحاسبين",
+    "Certificate_Entity": "SOCPA",
+    "Certificate_Field_EN": "Accounting",
+    "Certificate_Field_AR": "المحاسبة",
+    "Description": "Program focused on preparing recent accounting graduates for the professional workplace, covering practical skills and ethics.",
+    "Level": "Associate"
+  },
+  {
+    "Certificate_Name_EN": "CACHE Level 2 Children and Young Peopl",
+    "Certificate_Name_AR": "شهادة تأهيلية مقدمة لرعاية الأطفال مستوى  CACHE 2",
+    "Certificate_Entity": "NCFE CACHE",
+    "Certificate_Field_EN": "Human Resources And Development",
+    "Certificate_Field_AR": "الموارد البشرية والتطوير",
+    "Description": "Qualification focused on the basic knowledge required for working with children and young people.",
+    "Level": "Foundation"
+  },
+  {
+    "Certificate_Name_EN": "Governance, Risk Management, and Compliance GRCP",
+    "Certificate_Name_AR": "محترف الحوكمة وإدارة المخاطر والامتثال   GRCP",
+    "Certificate_Entity": "OCEG",
+    "Certificate_Field_EN": "Evaluation And Quality Control",
+    "Certificate_Field_AR": "التقييم وإدارة الجودة",
+    "Description": "Certification focused on the integrated strategy of managing GRC across an organization.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Certified Non-Profit Organizations Practitioner",
+    "Certificate_Name_AR": "الممارس المعتمد في عمل المنظمات غير الربحية",
+    "Certificate_Entity": "IBDL",
+    "Certificate_Field_EN": "Business and project administration",
+    "Certificate_Field_AR": "إدارة الأعمال والمشاريع",
+    "Description": "Certification focused on the day-to-day operational and administrative practices specific to non-profit organizations.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Certified Non-Profit Organizations Management Prof",
+    "Certificate_Name_AR": "المحترف المعتمد في إدارة  المنظمات غير الربحية",
+    "Certificate_Entity": "IBDL",
+    "Certificate_Field_EN": "Business and project administration",
+    "Certificate_Field_AR": "إدارة الأعمال والمشاريع",
+    "Description": "Certification focused on the strategic management, governance, and financial oversight of non-profit organizations.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Introduction to Securities and Investment (CME 1)",
+    "Certificate_Name_AR": "مقدمة في الأوراق المالية والاستثمار (CME 1)",
+    "Certificate_Entity": "الاكاديمية المالية",
+    "Certificate_Field_EN": "Finance And Auditing",
+    "Certificate_Field_AR": "المالية والمراجعة المالية",
+    "Description": "Entry-level qualification in the financial industry, covering the basics of securities, investment, and regulation (Duplication).",
+    "Level": "Foundation"
+  },
+  {
+    "Certificate_Name_EN": "International Financial Compliance (CME 2)",
+    "Certificate_Name_AR": "الالتزام المالي الدولي  (CME 2)",
+    "Certificate_Entity": "الاكاديمية المالية",
+    "Certificate_Field_EN": "Finance And Auditing",
+    "Certificate_Field_AR": "المالية والمراجعة المالية",
+    "Description": "Focuses on global financial compliance regulations, anti-money laundering (AML), and counter-terrorist financing (CTF) (Duplication).",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "CME4 CISI  I.C in Wealth and Investment",
+    "Certificate_Name_AR": "شهادة دولية في إدارة الثروات والاستثمارCME 4 CISI",
+    "Certificate_Entity": "الاكاديمية المالية",
+    "Certificate_Field_EN": "Finance And Auditing",
+    "Certificate_Field_AR": "المالية والمراجعة المالية",
+    "Description": "Certification covering wealth management, investment principles, and financial planning for private clients (Duplication/Refinement of CME 3).",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Corporate Finance Technical Foundations CME 5",
+    "Certificate_Name_AR": "شهادة الأسس الفنية لتمويل الشركات  (CME 5)",
+    "Certificate_Entity": "الاكاديمية المالية",
+    "Certificate_Field_EN": "Finance And Auditing",
+    "Certificate_Field_AR": "المالية والمراجعة المالية",
+    "Description": "Focuses on the technical fundamentals of corporate finance, including capital structure and valuation (Duplication).",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Certified Compliance Officer (CCO)",
+    "Certificate_Name_AR": "شهادة مسؤول الالتزام المعتمد (CCO)",
+    "Certificate_Entity": "الاكاديمية المالية",
+    "Certificate_Field_EN": "Finance And Auditing",
+    "Certificate_Field_AR": "المالية والمراجعة المالية",
+    "Description": "Certification focused on developing, implementing, and managing an effective compliance program within an organization (Duplication).",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Certified Chief Innovation Officer (CCInO)",
+    "Certificate_Name_AR": "الرئيس التنفيذي المعتمد للابتكار (CCInO)",
+    "Certificate_Entity": "GInI | Global Innovation Institute",
+    "Certificate_Field_EN": "Business and project administration",
+    "Certificate_Field_AR": "إدارة الأعمال والمشاريع",
+    "Description": "Executive-level certification for leading and driving innovation and strategic growth within an organization (Duplication).",
+    "Level": "Executive"
+  },
+  {
+    "Certificate_Name_EN": "Certified Innovation Professional (CInP)",
+    "Certificate_Name_AR": "محترف الابتكار المعتمد (CInP)",
+    "Certificate_Entity": "GInI | Global Innovation Institute",
+    "Certificate_Field_EN": "Business and project administration",
+    "Certificate_Field_AR": "إدارة الأعمال والمشاريع",
+    "Description": "Certification focused on the tools, processes, and frameworks for systematic innovation execution (Duplication).",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Certified Innovation Strategist (CInS)",
+    "Certificate_Name_AR": "استراتيجي الابتكار المعتمد (CInS)",
+    "Certificate_Entity": "GInI | Global Innovation Institute",
+    "Certificate_Field_EN": "Business and project administration",
+    "Certificate_Field_AR": "إدارة الأعمال والمشاريع",
+    "Description": "Focuses on developing and implementing a formal innovation strategy aligned with business goals (Duplication).",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Certified Design Thinking Professional (CDTP)",
+    "Certificate_Name_AR": "محترف التفكير التصميمي المعتمد (CDTP)",
+    "Certificate_Entity": "GInI | Global Innovation Institute",
+    "Certificate_Field_EN": "Business and project administration",
+    "Certificate_Field_AR": "إدارة الأعمال والمشاريع",
+    "Description": "Certification in the human-centered approach to problem-solving and innovation (Duplication).",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Certified Innovation Associate (CInA)",
+    "Certificate_Name_AR": "مساعد الابتكار المعتمد  (CInA)",
+    "Certificate_Entity": "GInI | Global Innovation Institute",
+    "Certificate_Field_EN": "Finance And Auditing",
+    "Certificate_Field_AR": "المالية والمراجعة المالية",
+    "Description": "Entry-level certification covering the basic terminology and concepts of organizational innovation (Duplication).",
+    "Level": "Associate"
+  },
+  {
+    "Certificate_Name_EN": "Basics of Fixed and Removable Prosthodontics",
+    "Certificate_Name_AR": "أساسيات التعويضات السنية الثابتة و المتحركة",
+    "Certificate_Entity": "الكريديس للتدريب الصحي",
+    "Certificate_Field_EN": "Health And Safety",
+    "Certificate_Field_AR": "الصحة و السلامة",
+    "Description": "Focuses on the fundamental principles for restoring missing teeth with fixed (crowns, bridges) and removable (dentures) prostheses.",
+    "Level": "Foundation"
+  },
+  {
+    "Certificate_Name_EN": "Basic Dental Implant For general dentists",
+    "Certificate_Name_AR": "زراعة الأسنان الأساسية للأطباء العامين",
+    "Certificate_Entity": "الكريديس للتدريب الصحي",
+    "Certificate_Field_EN": "Health And Safety",
+    "Certificate_Field_AR": "الصحة و السلامة",
+    "Description": "Focuses on the foundational knowledge and basic steps for planning and placing simple dental implants in general practice.",
+    "Level": "Foundation"
+  },
+  {
+    "Certificate_Name_EN": "Hospital and Health Facilities Management",
+    "Certificate_Name_AR": "إدارة المستشفيات والمرافق الصحية",
+    "Certificate_Entity": "الكريديس للتدريب الصحي",
+    "Certificate_Field_EN": "Health And Safety",
+    "Certificate_Field_AR": "الصحة و السلامة",
+    "Description": "Focuses on the operational management, administration, and infrastructure of hospitals and healthcare facilities.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Health Quality Management",
+    "Certificate_Name_AR": "إدارة جودة الصحة",
+    "Certificate_Entity": "الكريديس للتدريب الصحي",
+    "Certificate_Field_EN": "Health And Safety",
+    "Certificate_Field_AR": "الصحة و السلامة",
+    "Description": "Focuses on the principles and practices for measuring, analyzing, and improving the quality of care in healthcare organizations.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Modern Endodontics",
+    "Certificate_Name_AR": "علاج جذور الاسنان الحديث",
+    "Certificate_Entity": "الكريديس للتدريب الصحي",
+    "Certificate_Field_EN": "Health And Safety",
+    "Certificate_Field_AR": "الصحة و السلامة",
+    "Description": "Focuses on advanced techniques, materials, and technology used for root canal treatment and complex endodontic procedures.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Foundations of Orthodontics for General Dentists",
+    "Certificate_Name_AR": "أساسيات تقويم الأسنان لأطباء الأسنان العامين",
+    "Certificate_Entity": "الكريديس للتدريب الصحي",
+    "Certificate_Field_EN": "Health And Safety",
+    "Certificate_Field_AR": "الصحة و السلامة",
+    "Description": "Focuses on the basic diagnosis and management of simple malocclusions by a general practitioner.",
+    "Level": "Foundation"
+  },
+  {
+    "Certificate_Name_EN": "Advanced Surgical and Prosthodontics Principles in",
+    "Certificate_Name_AR": "مبادئ الجراحة المتقدمة والتركيبات السنية في طب الأ",
+    "Certificate_Entity": "الكريديس للتدريب الصحي",
+    "Certificate_Field_EN": "Health And Safety",
+    "Certificate_Field_AR": "الصحة و السلامة",
+    "Description": "Focuses on the integration of advanced surgical techniques with prosthodontic rehabilitation, often related to implants.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Presurgical Preparation and Maintenance of Dental",
+    "Certificate_Name_AR": "التحضير قبل الجراحة وصيانة زراعة الأسنان طبيب عام",
+    "Certificate_Entity": "الكريديس للتدريب الصحي",
+    "Certificate_Field_EN": "Health And Safety",
+    "Certificate_Field_AR": "الصحة و السلامة",
+    "Description": "Focuses on the necessary dental procedures and maintenance required before and after major surgical interventions.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Clinical Prosthodontic Practice",
+    "Certificate_Name_AR": "ممارسة طب الأسنان التجميلي السريري",
+    "Certificate_Entity": "الكريديس للتدريب الصحي",
+    "Certificate_Field_EN": "Health And Safety",
+    "Certificate_Field_AR": "الصحة و السلامة",
+    "Description": "Certification demonstrating practical competency in a wide range of complex restorative and prosthetic dental treatments.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Clinical Endodontics",
+    "Certificate_Name_AR": "علاج جذور الأسنان السريري",
+    "Certificate_Entity": "الكريديس للتدريب الصحي",
+    "Certificate_Field_EN": "Health And Safety",
+    "Certificate_Field_AR": "الصحة و السلامة",
+    "Description": "Certification demonstrating practical competency in performing advanced non-surgical and surgical endodontic procedures.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Indirect Ceramic Restorations (ICR)",
+    "Certificate_Name_AR": "Indirect Ceramic Restorations (ICR)",
+    "Certificate_Entity": "CACHET",
+    "Certificate_Field_EN": "Health And Safety",
+    "Certificate_Field_AR": "الصحة و السلامة",
+    "Description": "Focuses on the techniques and materials used to create and place ceramic inlays, onlays, and crowns (Duplication).",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Mastering Nitrous Oxide Sedation in Dentistry",
+    "Certificate_Name_AR": "إتقان التخدير الواعي باستخدام أكسيد النتروز في طب",
+    "Certificate_Entity": "CACHET",
+    "Certificate_Field_EN": "Health And Safety",
+    "Certificate_Field_AR": "الصحة و السلامة",
+    "Description": "Certification focused on the safe and effective administration and monitoring of nitrous oxide (laughing gas) for minimal sedation.",
+    "Level": "Specialist"
+  },
+  {
+    "Certificate_Name_EN": "Associate, Life Management Institute  ALMI",
+    "Certificate_Name_AR": "زميل معهد إدارة الحياة  ALMI",
+    "Certificate_Entity": "LOMA",
+    "Certificate_Field_EN": "Health And Safety",
+    "Certificate_Field_AR": "الصحة و السلامة",
+    "Description": "Entry-level certification for financial services professionals, covering insurance company operations, regulations, and management.",
+    "Level": "Associate"
+  },
+  {
+    "Certificate_Name_EN": "Fundamentals of Electrical Engineering Exam",
+    "Certificate_Name_AR": "أساسيات الهندسة الخاص تخصص الهندسة الكهربائية",
+    "Certificate_Entity": "الهيئة السعودية للمهندسين",
+    "Certificate_Field_EN": "Engineering",
+    "Certificate_Field_AR": "الهندسة",
+    "Description": "Exam covering the core concepts of electrical circuits, power, and electronics for early career engineers.",
+    "Level": "Foundation"
+  },
+  {
+    "Certificate_Name_EN": "Fundamentals of Architecture Exam",
+    "Certificate_Name_AR": "شهادة اختبار أساسيات العمارة الخاص",
+    "Certificate_Entity": "الهيئة السعودية للمهندسين",
+    "Certificate_Field_EN": "Engineering",
+    "Certificate_Field_AR": "الهندسة",
+    "Description": "Exam covering the core concepts of architectural design, history, and building systems for early career architects.",
+    "Level": "Foundation"
+  },
+  {
+    "Certificate_Name_EN": "Practice of Architecture Exam",
+    "Certificate_Name_AR": "شهادة اختبار الممارسة للعمارة الخاص",
+    "Certificate_Entity": "الهيئة السعودية للمهندسين",
+    "Certificate_Field_EN": "Engineering",
+    "Certificate_Field_AR": "الهندسة",
+    "Description": "Exam covering the professional, legal, and operational aspects of running an architectural practice.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": " Saudi Chemical Engineering Professional Exam",
+    "Certificate_Name_AR": " اختبار الممارسة  في تخصص الهندسة الكيميائية",
+    "Certificate_Entity": "الهيئة السعودية للمهندسين",
+    "Certificate_Field_EN": "Engineering",
+    "Certificate_Field_AR": "الهندسة",
+    "Description": "Professional licensure exam for chemical engineers in Saudi Arabia, covering local standards and advanced principles.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Saudi Fundamentals of Civil Engineering Exam",
+    "Certificate_Name_AR": "أساسيات الهندسة تخصص الهندسة المدنية",
+    "Certificate_Entity": "الهيئة السعودية للمهندسين",
+    "Certificate_Field_EN": "Engineering",
+    "Certificate_Field_AR": "الهندسة",
+    "Description": "Entry-level exam for civil engineers in Saudi Arabia, covering foundational principles.",
+    "Level": "Foundation"
+  },
+  {
+    "Certificate_Name_EN": "Saudi Fundamentals of Mechanical Engineering Exam",
+    "Certificate_Name_AR": "أساسيات الهندسة في تخصص الهندسة ميكانيكية",
+    "Certificate_Entity": "الهيئة السعودية للمهندسين",
+    "Certificate_Field_EN": "Engineering",
+    "Certificate_Field_AR": "الهندسة",
+    "Description": "Entry-level exam for mechanical engineers in Saudi Arabia, covering foundational principles.",
+    "Level": "Foundation"
+  },
+  {
+    "Certificate_Name_EN": "INSURANCE UNDERWRITING (WUA)",
+    "Certificate_Name_AR": "الاختبار المهني للاكتتاب في التأمين",
+    "Certificate_Entity": "The Chartered Insurance Institute (CII)",
+    "Certificate_Field_EN": "Insurance",
+    "Certificate_Field_AR": "التامين",
+    "Description": "Certification focused on the principles and practice of assessing and pricing insurance risks.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Marketing Insurance Products and Services (945)",
+    "Certificate_Name_AR": "اختبار تسويق منتجات وخدمات التأمين",
+    "Certificate_Entity": "The Chartered Insurance Institute (CII)",
+    "Certificate_Field_EN": "Insurance",
+    "Certificate_Field_AR": "التامين",
+    "Description": "Certification focused on the strategies and techniques for selling and marketing insurance and financial services.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Insurance Business and Finance (M92)",
+    "Certificate_Name_AR": "الاختبار المهني للأعمال والتمويل  في  التأمين",
+    "Certificate_Entity": "The Chartered Insurance Institute (CII)",
+    "Certificate_Field_EN": "Insurance",
+    "Certificate_Field_AR": "التامين",
+    "Description": "Certification focused on the financial statements, economics, and business operations of insurance companies.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "IFCE  Insurance Foundations Professional Exam",
+    "Certificate_Name_AR": "الاختبار المهني في اساسيات التامين",
+    "Certificate_Entity": "الاكاديمية المالية",
+    "Certificate_Field_EN": "Insurance",
+    "Certificate_Field_AR": "التامين",
+    "Description": "Professional exam covering the foundational knowledge of the insurance industry, products, and regulations.",
+    "Level": "Foundation"
+  },
+  {
+    "Certificate_Name_EN": "Insurance LOW M05",
+    "Certificate_Name_AR": "قانون التأمين",
+    "Certificate_Entity": "The Chartered Insurance Institute (CII)",
+    "Certificate_Field_EN": "Insurance",
+    "Certificate_Field_AR": "التامين",
+    "Description": "Certification focused on the legal and regulatory environment governing the insurance industry.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Insurance Claims Handling ( WCA )",
+    "Certificate_Name_AR": "معالجة مطالبات التأمين",
+    "Certificate_Entity": "The Chartered Insurance Institute (CII)",
+    "Certificate_Field_EN": "Insurance",
+    "Certificate_Field_AR": "التامين",
+    "Description": "Certification focused on the process, best practices, and legal aspects of managing and settling insurance claims.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Advanced Semiconductor Manufacturing Technologies",
+    "Certificate_Name_AR": "التصنيع المتقدم بتقنيات أشباه الموصلات",
+    "Certificate_Entity": "أكاديمية ٣٢",
+    "Certificate_Field_EN": "Engineering",
+    "Certificate_Field_AR": "الهندسة",
+    "Description": "Certification focused on the complex processes, materials, and equipment used in modern semiconductor fabrication.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Data Governance & Stewardship Professional  DGSP",
+    "Certificate_Name_AR": "محترف حوكمة البيانات والإشراف عليها DGSP",
+    "Certificate_Entity": "ICCP",
+    "Certificate_Field_EN": "Cyber security and cloud computing",
+    "Certificate_Field_AR": "الامن السيبراني والحوسبة السحابية",
+    "Description": "Certification focused on the roles and responsibilities in implementing and managing a data governance program.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "ISO 8000 Master Data Quality Manager",
+    "Certificate_Name_AR": "مدير جودة البيانات الرئيسية",
+    "Certificate_Entity": "ECCMA",
+    "Certificate_Field_EN": "Cyber security and cloud computing",
+    "Certificate_Field_AR": "الامن السيبراني والحوسبة السحابية",
+    "Description": "Certification focused on managing and improving the quality of master data using the ISO 8000 framework.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Certified Business Intelligence Professional",
+    "Certificate_Name_AR": "أخصائي معتمد في ذكاء الأعمال",
+    "Certificate_Entity": "7150",
+    "Certificate_Field_EN": "Cyber security and cloud computing",
+    "Certificate_Field_AR": "الامن السيبراني والحوسبة السحابية",
+    "Description": "Certification focused on the skills to design, develop, and implement BI solutions, including data warehousing and visualization.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Certified Information Privacy Manager CIPM",
+    "Certificate_Name_AR": "مدير خصوصية المعلومات المعتمد  CIPM",
+    "Certificate_Entity": "IAPP",
+    "Certificate_Field_EN": "Cyber security and cloud computing",
+    "Certificate_Field_AR": "الامن السيبراني والحوسبة السحابية",
+    "Description": "Certification focused on how to establish, maintain, and manage an organization's privacy program.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Integrated Data Privacy Professional (IDPP™)",
+    "Certificate_Name_AR": "أخصائي في خصوصية البيانات المتكاملة",
+    "Certificate_Entity": "OCEG",
+    "Certificate_Field_EN": "Cyber security and cloud computing",
+    "Certificate_Field_AR": "الامن السيبراني والحوسبة السحابية",
+    "Description": "Certification focused on integrating data privacy requirements into business processes and technology architecture.",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "SAP Certified Application Associate",
+    "Certificate_Name_AR": "مساعد تطبيقات معتمد من SAP",
+    "Certificate_Entity": "SAP",
+    "Certificate_Field_EN": "Business and project administration",
+    "Certificate_Field_AR": "إدارة الأعمال والمشاريع",
+    "Description": "Entry-level certification in a specific SAP application module (e.g., SAP S/4HANA, SAP SuccessFactors).",
+    "Level": "Associate"
+  },
+  {
+    "Certificate_Name_EN": "Indirect Ceramic Restorations (ICR)",
+    "Certificate_Name_AR": "التركيبات الخزفية غير المباشرة للأسنان",
+    "Certificate_Entity": "CACHET",
+    "Certificate_Field_EN": "Health And Safety",
+    "Certificate_Field_AR": "الصحة و السلامة",
+    "Description": "Focuses on the techniques and materials used to create and place ceramic inlays, onlays, and crowns (Duplication).",
+    "Level": "Professional"
+  },
+  {
+    "Certificate_Name_EN": "Mastering Molar Endodontics (MME)",
+    "Certificate_Name_AR": " إتقان علاج جذور الأسنان الخلفية",
+    "Certificate_Entity": "CACHET",
+    "Certificate_Field_EN": "Health And Safety",
+    "Certificate_Field_AR": "الصحة و السلامة",
+    "Description": "Specialized certification focused on advanced techniques and challenges specific to root canal treatment of molar teeth.",
+    "Level": "Specialist"
+  }
+]
