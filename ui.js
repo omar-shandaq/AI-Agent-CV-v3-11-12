@@ -6,6 +6,7 @@ import {
   DEFAULT_RULES_EN,
   DEFAULT_RULES_AR,
   getDefaultRules,
+  getFinalCertificateCatalog,
 } from "./constants.js";
 
 import {
@@ -187,7 +188,7 @@ function createRuleInput(ruleText = "") {
   deleteBtn.className = "delete-rule-btn";
   deleteBtn.innerHTML = "×";
   deleteBtn.title = "Delete this rule";
-  
+
   deleteBtn.addEventListener("click", (e) => {
     e.preventDefault();
     wrapper.remove();
@@ -217,6 +218,269 @@ function initializeRulesUI(rules) {
   }
 }
 
+function removeEmptyRuleInputs() {
+  const container = document.getElementById("rules-container");
+  if (!container) return;
+
+  const inputs = container.querySelectorAll(".rule-input");
+  inputs.forEach((input) => {
+    const value = input.value.trim();
+    if (!value) {
+      // Find the parent wrapper and remove it
+      const wrapper = input.closest(".rule-input-wrapper");
+      if (wrapper) {
+        wrapper.remove();
+      }
+    }
+  });
+}
+
+function updateDownloadButtonVisibility(recommendations) {
+  const downloadBtn = document.getElementById("download-recommendations-btn");
+  if (!downloadBtn) return;
+
+  // Hide button if no recommendations or empty candidates array
+  if (
+    !recommendations ||
+    !recommendations.candidates ||
+    recommendations.candidates.length === 0
+  ) {
+    downloadBtn.classList.add("hidden");
+  } else {
+    // Show button only if there are valid candidates
+    downloadBtn.classList.remove("hidden");
+  }
+}
+
+function downloadRecommendationsAsPDF(recommendations, language = 'en') {
+  if (!recommendations || !recommendations.candidates || recommendations.candidates.length === 0) {
+    const message = language === 'ar' ? 'لا توجد توصيات للتحميل.' : 'No recommendations to download.';
+    alert(message);
+    return;
+  }
+
+  const catalog = getFinalCertificateCatalog();
+
+  // Helper: choose color based on hours
+  function getColor(hours) {
+    if (hours <= 50) return "#c8f7c5";
+    if (hours <= 100) return "#ffe5b4";
+    return "#f5b5b5";
+  }
+
+  const headerText = language === 'ar'
+    ? 'توصيات التدريب والشهادات المدعومة بالذكاء الاصطناعي'
+    : 'AI-powered training and certification recommendations';
+
+  const titleText = language === 'ar' ? 'التوصيات' : 'Recommendations';
+
+  let pdfHTML = `
+    <div class="pdf-content">
+      <div class="pdf-header">
+        <h1>
+          <i class="fas fa-user-graduate"></i> SkillMatch Pro
+        </h1>
+        <p class="tagline">${headerText}</p>
+      </div>
+      
+      <h2 class="pdf-title">
+        <i class="fas fa-star"></i> ${titleText}
+      </h2>
+  `;
+
+  recommendations.candidates.forEach((candidate, index) => {
+    const pageBreakStyle = index > 0 ? 'style="page-break-before: always;"' : '';
+    pdfHTML += `<div class="pdf-candidate-result" ${pageBreakStyle}>`;
+
+    if (candidate.cvName) {
+      pdfHTML += `<div class="pdf-candidate-cv-name">${candidate.cvName}</div>`;
+    }
+
+    const candidateName = candidate.candidateName || (language === 'ar' ? 'مرشح' : 'Candidate');
+    pdfHTML += `<div class="pdf-candidate-name">${candidateName}</div>`;
+
+    const hourWord = language === 'ar' ? 'ساعة' : 'hours';
+
+    const candidateTimeline = [];
+    let candidateTotalHours = 0;
+
+    if (candidate.recommendations && candidate.recommendations.length > 0) {
+      candidate.recommendations.forEach((rec) => {
+        let displayName = rec.certName;
+        let catalogEntry =
+          catalog.find(c => c.id === rec.certId) ||
+          catalog.find(c =>
+            c.name === rec.certName ||
+            c.Certificate_Name_EN === rec.certName
+          );
+
+        if (language === 'ar' && catalogEntry && catalogEntry.nameAr) {
+          displayName = catalogEntry.nameAr;
+        }
+
+        let hours = 0;
+        if (catalogEntry) {
+          const rawHours =
+            catalogEntry.Estimated_Hours_To_Complete ??
+            catalogEntry.estimatedHours ??
+            catalogEntry.estimated_hours ??
+            0;
+          hours = Number(rawHours) || 0;
+        }
+
+        candidateTimeline.push({ name: displayName, hours });
+        candidateTotalHours += hours;
+
+        const rulesAppliedText = language === 'ar' ? 'القواعد المطبقة:' : 'Rules Applied:';
+        const hoursLabel = language === 'ar'
+          ? 'الوقت التقديري لإكمال الشهادة:'
+          : 'Estimated time to complete:';
+
+        const hoursText = hours > 0
+          ? `${hours} ${hourWord}`
+          : (language === 'ar' ? 'غير متوفر' : 'N/A');
+
+        pdfHTML += `
+          <div class="pdf-recommendation-card">
+            <div class="pdf-recommendation-title">${displayName}</div>
+            <div class="pdf-recommendation-reason">
+              <i class="fas fa-lightbulb"></i> ${rec.reason}
+            </div>
+            <div class="pdf-recommendation-hours">
+              <i class="far fa-clock"></i>
+              <span>${hoursLabel}</span>
+              <strong>${hoursText}</strong>
+            </div>
+            ${rec.rulesApplied && rec.rulesApplied.length > 0
+            ? `<div class="pdf-recommendation-rule">
+                  <i class="fas fa-gavel"></i> ${rulesAppliedText} ${rec.rulesApplied.join(", ")}
+                </div>`
+            : ''
+          }
+          </div>
+        `;
+      });
+
+      if (candidateTimeline.length > 0 && candidateTotalHours > 0) {
+        const timelineTitle = language === 'ar'
+          ? 'الوقت التقريبي لإكمال الشهادات المقترحة'
+          : 'Estimated timeline to complete recommended certificates';
+
+        const totalLabel = language === 'ar' ? 'الإجمالي' : 'Total';
+
+        const rtlClass = language === 'ar' ? 'pdf-timeline-rtl' : '';
+
+        let timelineHtml = `
+  <div class="pdf-timeline-wrapper ${rtlClass}">
+    <h3 class="pdf-timeline-title">${timelineTitle}</h3>
+    <div class="pdf-stacked-bar">
+`;
+
+
+        timelineHtml += candidateTimeline.map(item => {
+          const h = Number(item.hours) || 0;
+
+          const percentage = h > 0
+            ? (h / candidateTotalHours) * 100
+            : 0;
+
+          const displayHours = h > 0
+            ? `${h} ${hourWord}`
+            : (language === 'ar' ? 'غير متوفر' : 'N/A');
+
+          let segmentColor;
+          if (h <= 100) {
+            segmentColor = '#b8f5b8';
+          } else if (h < 200) {
+            segmentColor = '#ffd59b';
+          } else {
+            segmentColor = '#ffb3b3';
+          }
+
+          return `
+    <div class="pdf-bar-segment"
+         style="width:${percentage}%; background:${segmentColor}">
+      <span class="pdf-segment-hours">${displayHours}</span>
+    </div>
+  `;
+        }).join("");
+
+
+        timelineHtml += `
+            </div> <!-- .pdf-stacked-bar -->
+            <div class="pdf-stacked-labels">
+        `;
+
+        // labels row
+        timelineHtml += candidateTimeline.map(item => {
+          const percentage = item.hours > 0
+            ? (item.hours / candidateTotalHours) * 100
+            : 0;
+          return `
+            <div class="pdf-segment-label" style="width:${percentage}%">
+              ${item.name}
+            </div>
+          `;
+        }).join("");
+
+        timelineHtml += `
+            </div> <!-- .pdf-stacked-labels -->
+            <div class="pdf-total-row">
+              <div class="pdf-total-line"></div>
+              <div class="pdf-total-label">
+                ${totalLabel}: <strong>${candidateTotalHours}</strong> ${hourWord}
+              </div>
+            </div>
+          </div> <!-- .pdf-timeline-wrapper -->
+        `;
+
+        pdfHTML += timelineHtml;
+      }
+
+    } else {
+      const noRecText = language === 'ar'
+        ? 'لم يتم العثور على توصيات محددة لهذا المرشح بناءً على القواعد والكتالوج الحالي.'
+        : 'No specific recommendations found for this candidate based on the current rules and catalog.';
+      pdfHTML += `<p>${noRecText}</p>`;
+    }
+
+    pdfHTML += '</div>'; // close candidate block
+  });
+
+  pdfHTML += '</div>'; // close pdf-content
+
+  const tempDiv = document.createElement('div');
+  tempDiv.innerHTML = pdfHTML;
+  tempDiv.style.position = 'absolute';
+  tempDiv.style.left = '-9999px';
+  document.body.appendChild(tempDiv);
+
+  const element = tempDiv.firstElementChild;
+
+  const filename = language === 'ar' ? 'توصيات_SkillMatch.pdf' : 'SkillMatch_Recommendations.pdf';
+  const opt = {
+    margin: [10, 10, 10, 10],
+    filename: filename,
+    image: { type: 'jpeg', quality: 0.98 },
+    html2canvas: {
+      scale: 2,
+      useCORS: true,
+      logging: false
+    },
+    jsPDF: {
+      unit: 'mm',
+      format: 'a4',
+      orientation: 'portrait'
+    }
+  };
+
+  html2pdf().set(opt).from(element).save().then(() => {
+    document.body.removeChild(tempDiv);
+  });
+}
+
+
+
 function getRulesFromUI() {
   const container = document.getElementById("rules-container");
   if (!container) return [];
@@ -243,13 +507,18 @@ function updateGenerateButton(uploadedCvs) {
   }
 }
 
+// Alias for consistency with test folder naming
+function updateStartRecommendingButton(uploadedCvs, submittedCvDataParam) {
+  updateGenerateButton(uploadedCvs, submittedCvDataParam);
+}
+
 // ---------------------------------------------------------------------------
 // UI helpers
 // ---------------------------------------------------------------------------
 function updateStatus(element, messageKey, isError = false, rawText = null) {
   if (!element) return;
   const text = rawText || getStatusText(messageKey) || messageKey;
-  
+
   element.innerHTML = `
     <div class="status-message ${isError ? "status-error" : "status-success"}">
       ${text}
@@ -424,8 +693,8 @@ function renderCvDetails(cv) {
   const container = document.getElementById("cvResultsContainer");
   if (!container) return;
   container.innerHTML = "";
-  
-  // Guard against null structured data (if opened while parsing)
+
+    // Guard against null structured data (if opened while parsing)
   if (!cv.structured && !cv.education) { // !cv.education check for backward compat
       container.innerHTML = `<div class="status-message"><div class="loader"></div> Parsing detailed data... Please wait.</div>`;
       return;
@@ -579,7 +848,7 @@ function readCvFromDom(cv) {
 function syncActiveCvFromDom() {
   if (!modalCvData.length) return;
   const current = modalCvData[activeCvIndex];
-  // If parsing is still happening, don't try to read from DOM
+    // If parsing is still happening, don't try to read from DOM
   if (current.isParsing) return;
   
   const updated = readCvFromDom(current);
@@ -644,7 +913,7 @@ document.addEventListener("DOMContentLoaded", async () => {
   let lastRecommendations = loadLastRecommendations();
   // Store recommendations per CV name
   let allRecommendationsMap = {};
-  
+
   // Initialize map from saved recommendations if they exist
   if (lastRecommendations && lastRecommendations.candidates) {
     lastRecommendations.candidates.forEach((candidate) => {
@@ -660,7 +929,6 @@ document.addEventListener("DOMContentLoaded", async () => {
 
   let submittedCvData = [];
   let lastProcessedFileNames = [];
-
 
   // Helper: merge recommendations into map and display
   function applyRecommendationsToUi(recommendations, cvArray = uploadedCvs) {
@@ -709,6 +977,9 @@ document.addEventListener("DOMContentLoaded", async () => {
       resultsSection,
       currentLang
     );
+
+    // Update download button visibility based on recommendations
+    updateDownloadButtonVisibility(allRecommendations);
   }
 
   // Helper: rebuild a text blob from structured CV (fallback when raw text not present)
@@ -753,7 +1024,7 @@ document.addEventListener("DOMContentLoaded", async () => {
   const recommendationsContainer = document.getElementById("recommendations-container");
 
   const renderSubmittedCvBubbles = (allResults) => {
-    // 11-12-2025 liyan's updates
+        // 11-12-2025 liyan's updates
     const counterEl = document.getElementById("uploaded-cv-count");
     if (counterEl) {
       counterEl.textContent = allResults ? allResults.length : 0;
@@ -775,7 +1046,7 @@ document.addEventListener("DOMContentLoaded", async () => {
 
       const metaEl = document.createElement("span");
       metaEl.className = "bubble-meta";
-      
+
       // OPTIMIZATION: Show spinner if parsing, else show stats
       if (cv.isParsing) {
         metaEl.innerHTML = `<i class="fas fa-circle-notch fa-spin"></i> Analyzing...`;
@@ -802,6 +1073,11 @@ document.addEventListener("DOMContentLoaded", async () => {
           const allRecommendations = {
             candidates: Object.values(allRecommendationsMap)
           };
+          
+          // Also update persisted state
+          lastRecommendations = allRecommendations;
+          saveLastRecommendations(lastRecommendations);
+
           if (recommendationsContainer && resultsSection) {
             displayRecommendations(
               allRecommendations,
@@ -836,11 +1112,11 @@ document.addEventListener("DOMContentLoaded", async () => {
 
   // ALWAYS use default rules on page load/refresh
   const defaultRulesForLang = getDefaultRules(currentLang);
-  
+
   // Initialize UI with default rules (ignore localStorage)
   initializeRulesUI(defaultRulesForLang);
   userRules = [...defaultRulesForLang];
-  
+
   // Save default rules to localStorage
   saveUserRules(userRules);
 
@@ -865,7 +1141,7 @@ document.addEventListener("DOMContentLoaded", async () => {
       // Use submittedCvData if available, otherwise use uploadedCvs
       const cvArrayForChat = submittedCvData.length > 0 ? submittedCvData : uploadedCvs;
       const normalizedCvsForChat = normalizeCvArray(cvArrayForChat);
-      
+
       const enhancedSystemPrompt = buildChatSystemPrompt(normalizedCvsForChat, currentLang);
 
       let enhancedMessage = message;
@@ -890,15 +1166,13 @@ document.addEventListener("DOMContentLoaded", async () => {
               .map((exp) => exp.jobTitle || "")
               .filter(Boolean)
               .join(", ");
-            return `${cv.name}: ${totalYears} years experience, recent roles: ${
-              recentRoles || "N/A"
-            }, skills: ${skills || "N/A"}`;
+            return `${cv.name}: ${totalYears} years experience, recent roles: ${recentRoles || "N/A"
+              }, skills: ${skills || "N/A"}`;
           })
           .join("\n");
 
-        enhancedMessage = `${message}\n\n[Context: ${
-          normalizedCvsForChat.length
-        } CV(s) available. Summary: ${cvSummary}]`;
+        enhancedMessage = `${message}\n\n[Context: ${normalizedCvsForChat.length
+          } CV(s) available. Summary: ${cvSummary}]`;
       }
 
       enhancedMessage = buildChatContextMessage(
@@ -955,7 +1229,7 @@ document.addEventListener("DOMContentLoaded", async () => {
           uploadStatus,
           `Selected ${files.length} file(s): ${files.map((f) => f.name).join(", ")}`
         );
-        
+
         // ENABLE BUTTON IMMEDIATELY ON DRAG & DROP
         const generateBtn = document.getElementById("generate-recommendations-btn");
         if (generateBtn) {
@@ -993,15 +1267,32 @@ document.addEventListener("DOMContentLoaded", async () => {
       e.preventDefault();
       const container = document.getElementById("rules-container");
       if (container) {
-        const newInput = createRuleInput();
-        const statusOverlay = container.querySelector("#rules-status");
-        if (statusOverlay) {
-          container.insertBefore(newInput, statusOverlay);
+        // Check if there's already an empty rule input
+        const existingInputs = container.querySelectorAll(".rule-input");
+        let emptyInput = null;
+
+        // Look for an empty input
+        existingInputs.forEach((input) => {
+          if (!input.value.trim() && !emptyInput) {
+            emptyInput = input;
+          }
+        });
+
+        // If an empty input exists, focus on it instead of creating a new one
+        if (emptyInput) {
+          emptyInput.focus();
         } else {
-          container.appendChild(newInput);
+          // Only create a new input if all existing inputs have content
+          const newInput = createRuleInput();
+          const statusOverlay = container.querySelector("#rules-status");
+          if (statusOverlay) {
+            container.insertBefore(newInput, statusOverlay);
+          } else {
+            container.appendChild(newInput);
+          }
+          const input = newInput.querySelector('input');
+          if (input) input.focus();
         }
-        const input = newInput.querySelector('input');
-        if (input) input.focus();
       }
     });
   }
@@ -1129,7 +1420,7 @@ document.addEventListener("DOMContentLoaded", async () => {
           }
       });
   }
-
+  
 
   // START OF EDIT BY JOUD
   // Generate Recommendations button - Generates recommendations
@@ -1154,6 +1445,12 @@ document.addEventListener("DOMContentLoaded", async () => {
       // This ensures order and prevents hitting API rate limits too hard.
       
       let completedCount = 0;
+      
+      // Clear previous recommendations for this new run to keep chat agent in sync with displayed results
+      allRecommendationsMap = {}; 
+      // Sync global state immediately to clear old context from chat
+      lastRecommendations = { candidates: [] };
+      saveLastRecommendations(lastRecommendations);
 
       for (const cv of cvArray) {
         // A. Create a "Loading" placeholder for this specific CV
@@ -1175,6 +1472,19 @@ document.addEventListener("DOMContentLoaded", async () => {
           // D. Swap placeholder with result
           recommendationsContainer.replaceChild(resultCard, placeholder);
           
+          // E. Update Chat Context Incrementally
+          // We update the map and global state so the agent can see this result immediately
+          allRecommendationsMap[cv.name] = {
+             candidateName: result.candidateName || cv.name,
+             cvName: cv.name,
+             recommendations: result.recommendations || []
+          };
+
+          lastRecommendations = {
+            candidates: Object.values(allRecommendationsMap)
+          };
+          saveLastRecommendations(lastRecommendations);
+          
         } catch (err) {
           console.error(err);
           placeholder.innerHTML = `<p style="color:red">Error analyzing ${cv.name}</p>`;
@@ -1188,7 +1498,7 @@ document.addEventListener("DOMContentLoaded", async () => {
     });
   }
   // END OF EDIT BY JOUD
-
+  
   // Modal close behavior
   const closeBtn = document.querySelector(".cv-close-btn");
   if (closeBtn) {
