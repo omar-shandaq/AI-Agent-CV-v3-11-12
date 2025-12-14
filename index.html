@@ -169,6 +169,9 @@
       <div id="recommendations-container">
         <!-- Results will be dynamically populated here by JavaScript -->
       </div>
+      <button id="download-recommendations-btn" class="download-btn hidden">
+        <i class="fas fa-download"></i> Download Recommendations (PDF)
+      </button>
     </section>
 
     <!-- 11-12-2025 Liyan's updates -->
@@ -200,6 +203,8 @@
   <!-- Marked.js for markdown parsing -->
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 
+    <!-- html2pdf.js for PDF generation -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
   <!-- Config (injects GEMINI_API_KEY into window.GEMINI_API_KEY) -->
   <script src="config.js"></script>
 
@@ -209,6 +214,7 @@
   <script type="module" src="storage-catalog.js"></script>
   <script type="module" src="ai.js"></script>
   <script type="module" src="ui.js"></script>
+
 </body>
 </html>
 

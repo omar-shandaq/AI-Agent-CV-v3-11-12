@@ -802,11 +802,6 @@ document.addEventListener("DOMContentLoaded", async () => {
           const allRecommendations = {
             candidates: Object.values(allRecommendationsMap)
           };
-          
-          // Also update persisted state
-          lastRecommendations = allRecommendations;
-          saveLastRecommendations(lastRecommendations);
-
           if (recommendationsContainer && resultsSection) {
             displayRecommendations(
               allRecommendations,
@@ -1159,12 +1154,6 @@ document.addEventListener("DOMContentLoaded", async () => {
       // This ensures order and prevents hitting API rate limits too hard.
       
       let completedCount = 0;
-      
-      // Clear previous recommendations for this new run to keep chat agent in sync with displayed results
-      allRecommendationsMap = {}; 
-      // Sync global state immediately to clear old context from chat
-      lastRecommendations = { candidates: [] };
-      saveLastRecommendations(lastRecommendations);
 
       for (const cv of cvArray) {
         // A. Create a "Loading" placeholder for this specific CV
@@ -1185,19 +1174,6 @@ document.addEventListener("DOMContentLoaded", async () => {
           
           // D. Swap placeholder with result
           recommendationsContainer.replaceChild(resultCard, placeholder);
-          
-          // E. Update Chat Context Incrementally
-          // We update the map and global state so the agent can see this result immediately
-          allRecommendationsMap[cv.name] = {
-             candidateName: result.candidateName || cv.name,
-             cvName: cv.name,
-             recommendations: result.recommendations || []
-          };
-
-          lastRecommendations = {
-            candidates: Object.values(allRecommendationsMap)
-          };
-          saveLastRecommendations(lastRecommendations);
           
         } catch (err) {
           console.error(err);

@@ -36,7 +36,10 @@ export async function loadCertificates() {
         fieldEn: (cert.Certificate_Field_EN || "").trim(),
         fieldAr: (cert.Certificate_Field_AR || "").trim(),
         description: (cert.Description || "").trim(),
-        level: (cert.Level || "").trim()
+        level: (cert.Level || "").trim(),
+        Certificate_Name_EN: (cert.Certificate_Name_EN || "").trim(),
+        Certificate_Name_AR: (cert.Certificate_Name_AR || "").trim(),
+        Estimated_Hours_To_Complete: cert.Estimated_Hours_To_Complete || 0
       }));
       return CERTIFICATES_DATABASE;
     })
